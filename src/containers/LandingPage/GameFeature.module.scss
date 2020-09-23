@@ -1,0 +1,184 @@
+@import "../../variables.scss";
+
+.GameFeature {
+  z-index: 12;
+  width: 80%;
+  max-width: 1800px;
+  position: relative;
+  margin: 0 auto 10vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.GameFeatureTop {
+  margin-top: 30vw;
+}
+
+.GameFeatureReversed {
+  margin-top: 18vw;
+  flex-direction: row;
+}
+
+.GameFeatureBottom {
+  margin-top: 18vw;
+}
+
+.Heading {
+  color: $primary-blue;
+  font-family: "CocogoosePro-Regular", sans-serif;
+  font-size: 2.6rem;
+  text-transform: uppercase;
+}
+
+.Description {
+  color: $space-gray;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  font-size: 1.8rem;
+  margin: 2rem 0 1rem;
+  line-height: 2.5rem;
+}
+
+.GameInfo {
+  border-radius: 3rem;
+  text-align: left;
+  flex: 1;
+}
+
+.Spacer {
+  width: 5rem;
+}
+
+.VideoContainer {
+  flex: 1.2;
+  margin: 0 auto;
+  position: relative;
+}
+
+.FeatureImage {
+  width: 100%;
+  border-radius: 2.6rem;
+}
+
+.VideoBlob {
+  position: absolute;
+  z-index: -1;
+}
+
+.VideoBlob1 {
+  left: 0;
+  bottom: 0;
+  transform: translate(-21%, 22%);
+  width: 94%;
+}
+
+.VideoBlob2 {
+  right: 0;
+  bottom: 0;
+  transform: translate(25%, 15%);
+  width: 94%;
+}
+
+.VideoBlob3 {
+  left: 0;
+  top: 0;
+  transform: translate(-15%, -23%);
+  width: 110%;
+}
+
+.PlayButton {
+  position: relative;
+}
+
+.PlayButtonLink {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 900px) {
+  .VideoBlob {
+    display: none;
+  }
+
+  .GameFeature {
+    flex-direction: column-reverse;
+    margin-bottom: 8rem;
+  }
+
+  .GameFeatureBottom {
+    margin-bottom: 11rem;
+  }
+
+  .GameInfo {
+    margin-top: 3rem;
+    width: 100%;
+    text-align: center;
+  }
+
+  .VideoContainer {
+    width: 100%;
+  }
+
+  .Video {
+    width: 100%;
+  }
+
+  .Heading {
+    text-align: left;
+    font-size: 2.4rem;
+    line-height: 3rem;
+  }
+
+  .Description {
+    text-align: left;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+  }
+
+  .Spacer {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .Heading {
+    font-size: 3.6rem;
+  }
+
+  .Description {
+    font-size: 2.6rem;
+    margin: 2rem 0 1rem;
+    line-height: 4rem;
+  }
+
+  .GameFeatureBottom {
+    margin-bottom: 20rem;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .Heading {
+    font-size: 4.6rem;
+  }
+
+  .Description {
+    font-size: 3.2rem;
+    margin: 2rem 0 1rem;
+    line-height: 5rem;
+  }
+}
+
+@media screen and (min-width: 2400px) {
+  .GameFeatureTop {
+    margin-top: 13vw;
+  }
+
+  .GameFeatureReversed {
+    margin-top: 12vw;
+    flex-direction: row;
+  }
+
+  .GameFeatureBottom {
+    margin-top: 12vw;
+  }
+}

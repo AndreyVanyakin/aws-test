@@ -1,0 +1,120 @@
+@import "../../variables.scss";
+
+.DonateCard {
+  position: relative;
+  left: 15%;
+  z-index: 17;
+  width: 70%;
+  min-width: 32rem;
+  background-color: #fcf3ca;
+  border-radius: 5rem;
+  padding: 4rem 5rem 1rem 5rem;
+  text-align: left;
+}
+
+.SideGraphic {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  height: 105%;
+  max-height: 35rem;
+  transform: translateX(62%) translateY(-50%);
+}
+
+.SupportUs {
+  font-size: 5rem;
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  color: $primary-blue;
+}
+
+.DonateText {
+  margin-top: 2rem;
+  width: 77%;
+  font-family: "Montserrat", "Tahoma", "sans-serif";
+  font-size: 1.8rem;
+  line-height: 2.6rem;
+  font-weight: 500;
+}
+
+@media screen and (min-width: 1000px) {
+  .DonateText {
+    font-size: 2.2rem;
+    line-height: 3rem;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .DonateText {
+    font-size: 2rem;
+    line-height: 2.8rem;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .DonateText {
+    font-size: 2.2rem;
+    line-height: 3rem;
+  }
+  .SideGraphic {
+    max-height: 60rem;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .DonateText {
+    font-size: 3.4rem;
+    line-height: 5.6rem;
+  }
+
+  .DonateCard {
+    margin-top: 30rem;
+    padding: 6rem 8rem;
+  }
+}
+
+@media screen and (min-width: 2400px) {
+  .DonateCard {
+    left: 0;
+    max-width: 160rem;
+    margin: 10vw auto 0;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .DonateCard {
+    left: 0;
+    margin: 24rem auto 0;
+    padding-top: 6.5rem;
+    text-align: center;
+  }
+
+  .SideGraphic {
+    top: 0;
+    left: 50%;
+    height: 70%;
+    max-height: 23rem;
+    transform: translateX(-30%) translateY(-80%);
+  }
+
+  .DonateText {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+
+  .SupportUs {
+    font-size: 4rem;
+    white-space: nowrap;
+  }
+
+  .DonateButton {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .DonateCard {
+    padding: 7rem 3rem 1rem 3rem;
+  }
+}

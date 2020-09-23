@@ -1,0 +1,56 @@
+@import "../../variables.scss";
+
+.SubscribeBank {
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  // width: 100%;
+  max-width: 100rem;
+  text-align: center;
+  border-radius: 4rem;
+  background-color: #7ba582;
+  padding: 8rem 3rem 6rem;
+  margin: 5rem auto;
+  cursor: pointer;
+}
+
+.SubscribeBankContainer {
+  position: relative;
+  width: 100%;
+  margin: 0 10%;
+}
+
+.YouTubeSubscribeContainer {
+  border-radius: 1rem;
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 195px;
+  height: 70px;
+  box-sizing: border-box;
+  margin: 1rem;
+  padding: 1rem 1rem;
+  overflow: hidden;
+}
+
+.Message {
+  width: 100%;
+  color: $rocket-trail-white;
+  font-family: "Montserrat", "Tahoma", "sans-serif";
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+.Chevron {
+  color: $rocket-trail-white;
+  font-size: 3rem;
+}
+
+.ChevronOpen {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 3rem 2rem 0;
+  transform: scaleY(-1);
+  color: $rocket-trail-white;
+  font-size: 3rem;
+}

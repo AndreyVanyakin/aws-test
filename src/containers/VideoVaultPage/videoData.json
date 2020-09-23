@@ -1,0 +1,6308 @@
+{
+  "categories": {
+    "Kinematics": [
+      "1D",
+      "2D",
+      "speed",
+      "constant velocity",
+      "acceleration",
+      "vectors",
+      "projectile motion",
+      "freefall",
+      "graphs",
+      "equations",
+      "reference frames"
+    ],
+    "Forces": [
+      "1D",
+      "2D",
+      "Newton's 1st law",
+      "Newton's 2nd law",
+      "Newton's 3rd law",
+      "mass",
+      "gravitational force",
+      "static equilibrium",
+      "reference frames",
+      "friction",
+      "drag",
+      "springs",
+      "vectors",
+      "center of mass"
+    ],
+    "Circular motion": [
+      "tangential velocity",
+      "centripetal",
+      "vectors",
+      "friction",
+      "conical pendulum",
+      "vertical circles",
+      "speed",
+      "critical speed",
+      "reference frames",
+      "fictitious forces",
+      "Coriolis effect"
+    ],
+    "Gravitation": [
+      "universal gravitation",
+      "gravitational field",
+      "Kepler's laws",
+      "angular momentum",
+      "orbit",
+      "black holes",
+      "general relativity",
+      "cosmology",
+      "gravitational waves"
+    ],
+    "Momentum": [
+      "1D",
+      "2D",
+      "recoil",
+      "impulse",
+      "collisions",
+      "elastic collisions",
+      "inelastic collisions",
+      "explosions",
+      "conservation",
+      "rocket propulsion",
+      "vectors",
+      "center of mass",
+      "equations"
+    ],
+    "Energy": [
+      "work",
+      "kinetic energy",
+      "rotational kinetic energy",
+      "gravitational potential energy",
+      "elastic potential energy",
+      "thermal energy",
+      "electric potential energy",
+      "internal energy",
+      "power",
+      "conservation",
+      "equations",
+      "collisions",
+      "elastic collisions",
+      "inelastic collisions",
+      "explosions"
+    ],
+    "Rotation": [
+      "torque",
+      "center of mass",
+      "area of support",
+      "static equilibrium",
+      "angular velocity",
+      "angular acceleration",
+      "moment of inertia",
+      "Newton's 2nd law",
+      "angular momentum",
+      "rotational kinetic energy",
+      "conservation",
+      "rolling"
+    ],
+    "Vibration": [
+      "simple harmonic motion",
+      "frequency",
+      "amplitude",
+      "beats",
+      "pendulum",
+      "springs",
+      "resonance"
+    ],
+    "Waves": [
+      "transverse",
+      "longitudinal",
+      "frequency",
+      "amplitude",
+      "speed",
+      "wavelength",
+      "strings",
+      "water",
+      "sound",
+      "resonance",
+      "interference",
+      "beats",
+      "standing waves",
+      "musical instruments",
+      "Doppler effect"
+    ],
+    "Electricity": [
+      "electric charge",
+      "charging by friction",
+      "polarization",
+      "conductors",
+      "insulators",
+      "circuits",
+      "electric current",
+      "voltage",
+      "resistance",
+      "batteries",
+      "capacitors",
+      "electric field",
+      "electric potential",
+      "lightning",
+      "electroscope",
+      "grounding",
+      "Faraday cage"
+    ],
+    "Magnetism": [
+      "magnets",
+      "magnetic field",
+      "Earth",
+      "aurora",
+      "electric current",
+      "solenoid",
+      "magnetic force",
+      "right-hand rule",
+      "electromagnetic induction",
+      "Lenz's law",
+      "eddy currents",
+      "motors",
+      "generators",
+      "ferrofluid"
+    ],
+    "Light": [
+      "color",
+      "vision",
+      "shadows",
+      "reflection",
+      "mirrors",
+      "concave mirrors",
+      "convex mirrors",
+      "focal point",
+      "refraction",
+      "Snell's law",
+      "total internal reflection",
+      "lenses",
+      "real images",
+      "virtual images",
+      "polarization",
+      "electromagnetic waves",
+      "wavelength",
+      "interference",
+      "diffraction",
+      "lasers"
+    ],
+    "Fluids": [
+      "volume",
+      "density",
+      "pressure",
+      "depth",
+      "buoyancy",
+      "flow",
+      "laminar",
+      "Bernoulli's principle",
+      "atmospheric pressure",
+      "lift",
+      "drag",
+      "Magnus effect",
+      "Newton's 3rd law",
+      "surface tension"
+    ],
+    "Thermodynamics": [
+      "pressure",
+      "volume",
+      "temperature",
+      "absolute zero",
+      "gases",
+      "liquids",
+      "solids",
+      "conduction",
+      "convection",
+      "evaporation",
+      "radiation",
+      "thermal energy",
+      "work",
+      "engines",
+      "entropy",
+      "1st law of thermodynamics",
+      "2nd law of thermodynamics",
+      "Brownian motion",
+      "thermal expansion"
+    ],
+    "Modern physics": [
+      "special relativity",
+      "time dilation",
+      "length contraction",
+      "blackbody radiation",
+      "photoelectric effect",
+      "photons",
+      "atomic physics",
+      "spectra",
+      "quantum mechanics",
+      "wave-particle duality",
+      "nuclear physics",
+      "mass-energy equivalence",
+      "fusion",
+      "fission",
+      "nuclear decay",
+      "antimatter"
+    ]
+  },
+  "creators": [
+    "Veritasium",
+    "Physics Girl",
+    "Smarter Every Day",
+    "Vsauce",
+    "Minute Physics",
+    "The Slow Mo Guys",
+    "ISS astronauts",
+    "Kurzgesagt",
+    "TED Ed",
+    "Brusspup",
+    "Animations for Physics",
+    "Eugene Khutoryansky",
+    "Bruce Yeany",
+    "Flipping Physics"
+  ],
+  "videos": [
+    {
+      "id": "FHtvDA0W34I",
+      "heading": "Supersonic freefall",
+      "creator": "Red Bull",
+      "categories": ["Kinematics", "Forces"],
+      "topics": ["1D", "freefall", "drag"]
+    },
+    {
+      "id": "akLC_JMjpjA",
+      "heading": "Train station gag",
+      "creator": "",
+      "categories": ["Kinematics", "Forces"],
+      "topics": ["1D", "reference frames", "Newton's 1st law"]
+    },
+    {
+      "id": "zwCEIWsAORk?start=75",
+      "heading": "Mysterious room",
+      "creator": "",
+      "categories": ["Forces"],
+      "topics": ["reference frames", "Newton's 1st law"]
+    },
+
+    {
+      "id": "skvnj67YGmw",
+      "heading": "The brachistochrone",
+      "creator": "Vsauce",
+      "categories": ["Kinematics", "Forces", "Energy"],
+      "topics": [
+        "speed",
+        "acceleration",
+        "freefall",
+        "Newton's 2nd law",
+        "gravitational force",
+        "kinetic energy",
+        "gravitational potential energy",
+        "conservation"
+      ]
+    },
+    {
+      "id": "BLuI118nhzc",
+      "heading": "Cannon on a truck",
+      "creator": "Mythbusters",
+      "categories": ["Kinematics", "Momentum"],
+      "topics": [
+        "1D",
+        "constant velocity",
+        "vectors",
+        "freefall",
+        "reference frames",
+        "explosions"
+      ]
+    },
+    {
+      "id": "Wp20Sc8qPeo",
+      "heading": "How far is a second?",
+      "creator": "Minute Physics",
+      "categories": ["Kinematics"],
+      "topics": ["1D", "constant velocity", "vectors"]
+    },
+    {
+      "id": "O97lI8FVEas",
+      "heading": "Kinematics review",
+      "creator": "Physics Girl",
+      "categories": ["Kinematics"],
+      "topics": [
+        "1D",
+        "constant velocity",
+        "acceleration",
+        "graphs",
+        "equations"
+      ]
+    },
+    {
+      "id": "wIzvfki5ozU",
+      "heading": "How fast are you moving right now?",
+      "creator": "TED Ed",
+      "categories": ["Kinematics", "Modern physics"],
+      "topics": [
+        "1D",
+        "constant velocity",
+        "vectors",
+        "reference frames",
+        "special relativity"
+      ]
+    },
+    {
+      "id": "Fftar0rLi7Q",
+      "heading": "Projectile motion and frames of reference",
+      "creator": "",
+      "categories": ["Kinematics"],
+      "topics": [
+        "2D",
+        "acceleration",
+        "vectors",
+        "projectile motion",
+        "freefall",
+        "reference frames"
+      ]
+    },
+    {
+      "id": "E43-CfukEgs",
+      "heading": "Feather vs. bowling ball",
+      "creator": "Brian Cox",
+      "categories": ["Kinematics", "Forces"],
+      "topics": ["1D", "acceleration", "freefall", "drag", "Newton's 2nd law"]
+    },
+
+    {
+      "id": "q1_AJWZajEk",
+      "heading": "Zero-G plane",
+      "creator": "Physics Girl",
+      "categories": ["Forces", "Kinematics"],
+      "topics": ["2D", "freefall"]
+    },
+    {
+      "id": "vT1mLpD6H_c",
+      "heading": "2D kinematics",
+      "creator": "Animations for Physics",
+      "categories": ["Kinematics"],
+      "topics": ["2D", "speed", "acceleration", "constant velocity", "vectors"]
+    },
+    {
+      "id": "eCMmmEEyOO0",
+      "heading": "Slinky drop",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "center of mass",
+        "gravitational force",
+        "freefall",
+        "springs",
+        "Newton's 2nd law"
+      ]
+    },
+    {
+      "id": "oKb2tCtpvNU",
+      "heading": "Slinky drop 2",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "center of mass",
+        "gravitational force",
+        "freefall",
+        "springs",
+        "Newton's 2nd law"
+      ]
+    },
+    {
+      "id": "O7zewtuUM_0",
+      "heading": "The archer's paradox",
+      "creator": "Smarter Every Day",
+      "categories": ["Kinematics", "Energy"],
+      "topics": [
+        "2D",
+        "projectile motion",
+        "kinetic energy",
+        "elastic potential energy"
+      ]
+    },
+    {
+      "id": "L8F5-gRs8Bs",
+      "heading": "Airplane projectile",
+      "creator": "Animations for Physics",
+      "categories": ["Kinematics"],
+      "topics": [
+        "2D",
+        "projectile motion",
+        "acceleration",
+        "gravitational force"
+      ]
+    },
+
+    {
+      "id": "1erU-Cwcl2c",
+      "heading": "Chain drop",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "acceleration",
+        "freefall",
+        "center of mass",
+        "gravitational force",
+        "Newton's 2nd law"
+      ]
+    },
+    {
+      "id": "3gNkgj9h2oM",
+      "heading": "Why isn't it faster to fly west?",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Rotation", "Energy", "Waves"],
+      "topics": [
+        "friction",
+        "gravitational force",
+        "center of mass",
+        "gravitational potential energy",
+        "moment of inertia",
+        "collisions",
+        "speed"
+      ]
+    },
+    {
+      "id": "uiyMuHuCFo4",
+      "heading": "Falling springs",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "center of mass",
+        "gravitational force",
+        "freefall",
+        "springs",
+        "Newton's 2nd law"
+      ]
+    },
+    {
+      "id": "jHbyQ_AQP8c",
+      "heading": "What if everyone jumped at once?",
+      "creator": "Vsauce",
+      "categories": ["Forces", "Gravitation"],
+      "topics": [
+        "Newton's 2nd law",
+        "Newton's 3rd law",
+        "mass",
+        "gravitational force",
+        "center of mass",
+        "universal gravitation"
+      ]
+    },
+    {
+      "id": "JsytnJ_pSf8",
+      "heading": "Supersized slinky drop",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "center of mass",
+        "gravitational force",
+        "freefall",
+        "springs",
+        "Newton's 2nd law"
+      ]
+    },
+    {
+      "id": "7v-viGyoZAU",
+      "heading": "Freefall flight",
+      "creator": "Physics Girl",
+      "categories": ["Forces", "Kinematics"],
+      "topics": ["2D", "freefall"]
+    },
+    {
+      "id": "8MR3daaWLXI",
+      "heading": "Accelerating the ISS astronauts",
+      "creator": "ISS astronauts",
+      "categories": ["Forces"],
+      "topics": ["1D", "acceleration", "reference frames", "Newton's 1st law"]
+    },
+    {
+      "id": "IyrvfhOI3ls",
+      "heading": "Mile race - Porsche vs. Beetle",
+      "creator": "Top Gear/Fifth Gear",
+      "categories": ["Kinematics", "Forces", "Energy"],
+      "topics": [
+        "1D",
+        "constant velocity",
+        "acceleration",
+        "Newton's 2nd law",
+        "kinetic energy",
+        "power"
+      ]
+    },
+    {
+      "id": "Xc4xYacTu-E",
+      "heading": "Which way is down?",
+      "creator": "Vsauce",
+      "categories": ["Kinematics", "Forces", "Gravitation"],
+      "topics": [
+        "1D",
+        "acceleration",
+        "Newton's 2nd law",
+        "mass",
+        "freefall",
+        "gravitational force",
+        "universal gravitation",
+        "gravitational field"
+      ]
+    },
+    {
+      "id": "_mCC-68LyZM",
+      "heading": "Falling objects",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "1D",
+        "acceleration",
+        "Newton's 2nd law",
+        "mass",
+        "freefall",
+        "gravitational force"
+      ]
+    },
+    {
+      "id": "3utyE2ZF6w8",
+      "heading": "850 vs. 10,000 horsepower",
+      "creator": "",
+      "categories": ["Forces", "Energy"],
+      "topics": [
+        "1D",
+        "acceleration",
+        "Newton's 2nd law",
+        "kinetic energy",
+        "power"
+      ]
+    },
+    {
+      "id": "ZMByI4s-D-Y",
+      "heading": "World's roundest object",
+      "creator": "Veritasium",
+      "categories": ["Forces"],
+      "topics": ["mass"]
+    },
+    {
+      "id": "c_e1wITe_ig",
+      "heading": "The standard kilogram",
+      "creator": "Veritasium",
+      "categories": ["Forces"],
+      "topics": ["mass"]
+    },
+    {
+      "id": "9eKc5kgPVrA",
+      "heading": "Immovable object vs. unstoppable force",
+      "creator": "Minute Physics",
+      "categories": ["Forces"],
+      "topics": [
+        "Newton's 2nd law",
+        "mass",
+        "static equilibrium",
+        "gravitational force"
+      ]
+    },
+    {
+      "id": "sDbmcPnzwy4",
+      "heading": "Michael Jordan's legendary hangtime",
+      "creator": "TED Ed",
+      "categories": ["Kinematics"],
+      "topics": ["projectile motion", "freefall", "gravitational field"]
+    },
+    {
+      "id": "FM9EA4rOOvk",
+      "heading": "Strange gravity",
+      "creator": "Brusspup",
+      "categories": ["Forces"],
+      "topics": [
+        "Newton's 1st law",
+        "gravitational force",
+        "reference frames",
+        "rolling"
+      ]
+    },
+    {
+      "id": "_k9egfWvb7Y",
+      "heading": "World's heaviest weight",
+      "creator": "Veritasium",
+      "categories": ["Forces"],
+      "topics": ["gravitational force", "Newton's 2nd law", "mass"]
+    },
+    {
+      "id": "9YUtFpLpGfk",
+      "heading": "Which is faster - Running or falling?",
+      "creator": "Minute Physics",
+      "categories": ["Kinematics", "Forces"],
+      "topics": ["1D", "acceleration", "freefall", "Newton's 2nd law"]
+    },
+    {
+      "id": "UdhBV2hX4JM",
+      "heading": "Giant slip n' slide: Real or fake?",
+      "creator": "",
+      "categories": ["Kinematics", "Energy"],
+      "topics": [
+        "2D",
+        "acceleration",
+        "vectors",
+        "projectile motion",
+        "freefall",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "L5N7R9Wbe_E?start=20",
+      "heading": "World record stunt car jump",
+      "creator": "Red Bull",
+      "categories": ["Kinematics"],
+      "topics": [
+        "2D",
+        "acceleration",
+        "vectors",
+        "projectile motion",
+        "freefall"
+      ]
+    },
+    {
+      "id": "Dz6gFokvOr0",
+      "heading": "World's farthest basketball shot",
+      "creator": "",
+      "categories": ["Kinematics"],
+      "topics": [
+        "2D",
+        "acceleration",
+        "vectors",
+        "projectile motion",
+        "freefall"
+      ]
+    },
+    {
+      "id": "mCH0y-KwhbU?start=191",
+      "heading": "Space station fun",
+      "creator": "ISS astronauts",
+      "categories": ["Forces", "Momentum"],
+      "topics": [
+        "Newton's 1st law",
+        "Newton's 2nd law",
+        "Newton's 3rd law",
+        "friction",
+        "drag",
+        "recoil"
+      ]
+    },
+    {
+      "id": "8bTdMmNZm2M",
+      "heading": "Newton's 3rd law",
+      "creator": "Veritasium",
+      "categories": ["Forces", "Gravitation"],
+      "topics": ["Newton's 3rd law", "mass", "universal gravitation"]
+    },
+    {
+      "id": "wjXhHEXqMKE?start=9",
+      "heading": "Newton's 3rd in 'Gravity'",
+      "creator": "",
+      "categories": ["Forces", "Momentum"],
+      "topics": [
+        "Newton's 3rd law",
+        "2D",
+        "conservation",
+        "explosions",
+        "recoil"
+      ]
+    },
+    {
+      "id": "Hx9TwM4Pmhc",
+      "heading": "Water jetpack",
+      "creator": "Veritasium",
+      "categories": ["Forces", "Momentum"],
+      "topics": [
+        "Newton's 3rd law",
+        "conservation",
+        "explosions",
+        "rocket propulsion",
+        "recoil"
+      ]
+    },
+    {
+      "id": "PZtsX0gLrxo",
+      "heading": "Rocket-powered saw",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Momentum"],
+      "topics": [
+        "Newton's 3rd law",
+        "conservation",
+        "explosion",
+        "rocket propulsion",
+        "recoil"
+      ]
+    },
+    {
+      "id": "m4Bm3cs9TFo",
+      "heading": "Water propulsion flyboard",
+      "creator": "",
+      "categories": ["Forces", "Momentum"],
+      "topics": [
+        "Newton's 3rd law",
+        "conservation",
+        "explosion",
+        "rocket propulsion",
+        "recoil"
+      ]
+    },
+    {
+      "id": "pVEo_mckBIc",
+      "heading": "The physics of slingshots",
+      "creator": "Smarter Every Day",
+      "categories": ["Energy", "Momentum"],
+      "topics": [
+        "work",
+        "kinetic energy",
+        "elastic potential energy",
+        "impulse",
+        "conservation"
+      ]
+    },
+    {
+      "id": "gKzWrumXS7E",
+      "heading": "Blowing your own sail",
+      "creator": "Bruce Yeany",
+      "categories": ["Forces", "Momentum"],
+      "topics": [
+        "1D",
+        "Newton's 2nd law",
+        "Newton's 3rd law",
+        "drag",
+        "recoil",
+        "impulse",
+        "explosions",
+        "conservation",
+        "rocket propulsion"
+      ]
+    },
+    {
+      "id": "TahcJy1AlXI",
+      "heading": "Friction and circular motion",
+      "creator": "Animations for Physics",
+      "categories": ["Forces", "Circular motion"],
+      "topics": [
+        "friction",
+        "gravitational force",
+        "vectors",
+        "centripetal",
+        "speed"
+      ]
+    },
+    {
+      "id": "EkP3eDAROhM",
+      "heading": "Spinning a sparkler",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Circular motion", "Forces"],
+      "topics": ["centripetal", "tangential velocity", "Newton's 1st law"]
+    },
+    {
+      "id": "FVo2qdXxQ7o",
+      "heading": "Gnarly water spirals",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Circular motion", "Forces"],
+      "topics": ["centripetal", "tangential velocity", "Newton's 1st law"]
+    },
+    {
+      "id": "kPB8f8wO6eo",
+      "heading": "Merry go round observer",
+      "creator": "Chad Orzel",
+      "categories": ["Forces", "Circular motion"],
+      "topics": ["reference frames", "fictitious forces", "Coriolis effect"]
+    },
+    {
+      "id": "79rYbkTi4fs",
+      "heading": "Forces in a fighter jet",
+      "creator": "Smarter Every Day",
+      "categories": ["Circular motion", "Forces"],
+      "topics": [
+        "2D",
+        "Newton's 2nd law",
+        "gravitational force",
+        "reference frames",
+        "centripetal",
+        "vertical circles",
+        "critical speed",
+        "fictitious forces"
+      ]
+    },
+    {
+      "id": "Zip9ft1PgV0",
+      "heading": "Rotating water tank",
+      "creator": "Dan Russell",
+      "categories": ["Circular motion", "Forces"],
+      "topics": [
+        "centripetal",
+        "tangential velocity",
+        "reference frames",
+        "Newton's 1st law",
+        "fictitious forces"
+      ]
+    },
+    {
+      "id": "dt_XJp77-mk",
+      "heading": "Playing catch while spinning",
+      "creator": "MIT Department of Physics",
+      "categories": ["Forces", "Circular motion"],
+      "topics": ["reference frames", "fictitious forces", "Coriolis effect"]
+    },
+    {
+      "id": "fSfVVz0eIis",
+      "heading": "Breaking down circular motion",
+      "creator": "Animations for Physics",
+      "categories": ["Circular motion"],
+      "topics": ["tangential velocity", "centripetal"]
+    },
+    {
+      "id": "V4rFoYFlQUE?start=270",
+      "heading": "Riding the loop",
+      "creator": "Red Bull",
+      "categories": ["Circular motion", "Energy"],
+      "topics": [
+        "centripetal",
+        "vertical circles",
+        "critical speed",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "XBtBdNHBNSI",
+      "heading": "Best high jump technique",
+      "creator": "Veritasium",
+      "categories": ["Forces", "Energy"],
+      "topics": [
+        "center of mass",
+        "gravitational force",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "r8E5dUnLmh4?start=185",
+      "heading": "Crash comparison",
+      "creator": "Mythbusters",
+      "categories": ["Forces", "Momentum", "Energy"],
+      "topics": [
+        "1D",
+        "Newton's 2nd law",
+        "collisions",
+        "inelastic collisions",
+        "kinetic energy",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "39t1ul5iaxw",
+      "heading": "Swimming the loop",
+      "creator": "",
+      "categories": ["Circular motion", "Fluids"],
+      "topics": [
+        "tangential velocity",
+        "centripetal",
+        "pressure",
+        "depth",
+        "buoyancy",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "dSDb9oKMCRc",
+      "heading": "Running the loop",
+      "creator": "",
+      "categories": ["Circular motion", "Energy"],
+      "topics": [
+        "centripetal",
+        "vertical circles",
+        "critical speed",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "h-85rpR-mRM",
+      "heading": "Kinematics of circular motion",
+      "creator": "Animations for Physics",
+      "categories": ["Circular motion", "Kinematics"],
+      "topics": [
+        "tangential velocity",
+        "centripetal",
+        "speed",
+        "acceleration",
+        "vectors"
+      ]
+    },
+    {
+      "id": "wiZoVAZGgsw",
+      "heading": "Driving the loop",
+      "creator": "Top Gear/Fifth Gear",
+      "categories": ["Circular motion", "Energy"],
+      "topics": [
+        "centripetal",
+        "vertical circles",
+        "critical speed",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "rUVXNeHa5EA",
+      "heading": "Wall of death",
+      "creator": "",
+      "categories": ["Circular motion"],
+      "topics": ["vectors", "centripetal", "conical pendulum"]
+    },
+    {
+      "id": "_m0QbOwx0GM",
+      "heading": "Car on a banked track",
+      "creator": "Animations for Physics",
+      "categories": ["Circular motion"],
+      "topics": ["vectors", "centripetal", "conical pendulum"]
+    },
+    {
+      "id": "L9aREQpcLGU",
+      "heading": "Sphere of death",
+      "creator": "",
+      "categories": ["Circular motion"],
+      "topics": ["vectors", "centripetal", "conical pendulum"]
+    },
+    {
+      "id": "VyhR1Hf1_OU",
+      "heading": "Conical pendulum",
+      "creator": "Animations for Physics",
+      "categories": ["Circular motion"],
+      "topics": ["vectors", "centripetal", "conical pendulum"]
+    },
+    {
+      "id": "tB4xFSiNqvU",
+      "heading": "Inside the gravitron",
+      "creator": "",
+      "categories": ["Circular motion"],
+      "topics": ["friction", "centripetal", "fictitious forces"]
+    },
+    {
+      "id": "btxMd5mbPeM",
+      "heading": "Not-so-merry go round",
+      "creator": "",
+      "categories": ["Circular motion"],
+      "topics": ["friction", "centripetal", "fictitious forces"]
+    },
+    {
+      "id": "oAqOksj4Kvg",
+      "heading": "Penny trick",
+      "creator": "Steve Spangler",
+      "categories": ["Circular motion"],
+      "topics": [
+        "friction",
+        "tangential velocity",
+        "centripetal",
+        "vertical circles"
+      ]
+    },
+    {
+      "id": "p_o4aY7xkXg",
+      "heading": "What is gravity?",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation"],
+      "topics": [
+        "universal gravitation",
+        "gravitational field",
+        "orbit",
+        "cosmology"
+      ]
+    },
+    {
+      "id": "vWlCm0X0QC0",
+      "heading": "The Cavendish experiment",
+      "creator": "Animations for Physics",
+      "categories": ["Gravitation", "Rotation"],
+      "topics": [
+        "universal gravitation",
+        "gravitational force",
+        "torque",
+        "angular acceleration"
+      ]
+    },
+    {
+      "id": "LHvR1fRTW8g",
+      "heading": "Hitting the Sun",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Circular motion", "Kinematics"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "tangential velocity",
+        "centripetal",
+        "vectors",
+        "reference frames"
+      ]
+    },
+    {
+      "id": "rltpH6ck2Kc",
+      "heading": "What if the Sun disappeared?",
+      "creator": "Vsauce",
+      "categories": ["Gravitation", "Circular motion"],
+      "topics": [
+        "universal gravitation",
+        "gravitational field",
+        "orbit",
+        "tangential velocity",
+        "centripetal"
+      ]
+    },
+    {
+      "id": "q65O3qA0-n4",
+      "heading": "What is sea level?",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Fluids"],
+      "topics": [
+        "universal gravitation",
+        "gravitational field",
+        "orbit",
+        "depth"
+      ]
+    },
+    {
+      "id": "xTNcnJS-a2M",
+      "heading": "Kingda Ka front row",
+      "creator": "",
+      "categories": ["Kinematics", "Energy"],
+      "topics": [
+        "1D",
+        "acceleration",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy",
+        "power"
+      ]
+    },
+    {
+      "id": "CHnlRFkakYc",
+      "heading": "Kingda Ka rollback",
+      "creator": "",
+      "categories": ["Kinematics", "Energy"],
+      "topics": [
+        "1D",
+        "acceleration",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy",
+        "power"
+      ]
+    },
+    {
+      "id": "_GJujClGYJQ",
+      "heading": "High road vs. low road",
+      "creator": "Bruce Yeany",
+      "categories": ["Kinematics", "Energy"],
+      "topics": [
+        "1D",
+        "acceleration",
+        "speed",
+        "kinetic energy",
+        "gravitational potential energy",
+        "conservation"
+      ]
+    },
+    {
+      "id": "mvA7AZEyciM",
+      "heading": "World record pole vault",
+      "creator": "",
+      "categories": ["Energy"],
+      "topics": [
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy",
+        "elastic potential energy",
+        "internal energy",
+        "power"
+      ]
+    },
+    {
+      "id": "4b8ZsFszE8I",
+      "heading": "Are perpetual motion machines possible?",
+      "creator": "Physics Girl",
+      "categories": ["Energy"],
+      "topics": ["conservation", "kinetic energy", "thermal energy"]
+    },
+    {
+      "id": "SUOVqpSfEnQ",
+      "heading": "Trampoline tricks",
+      "creator": "People are Awesome",
+      "categories": ["Energy"],
+      "topics": [
+        "conservation",
+        "kinetic energy",
+        "rotational kinetic energy",
+        "gravitational potential energy",
+        "elastic potential energy",
+        "internal energy",
+        "power"
+      ]
+    },
+    {
+      "id": "A-QgGXbDyR0",
+      "heading": "Why don't perpatual machines work?",
+      "creator": "Physics Girl",
+      "categories": ["Energy"],
+      "topics": ["conservation", "kinetic energy", "thermal energy"]
+    },
+    {
+      "id": "Jsc-pQIMxt8",
+      "heading": "Gravity-powered lamp",
+      "creator": "Smarter Every Day",
+      "categories": ["Energy", "Light"],
+      "topics": [
+        "gravitational potential energy",
+        "conservation",
+        "electric potential energy",
+        "power"
+      ]
+    },
+    {
+      "id": "GHCc9b2phn0",
+      "heading": "Energy conservation",
+      "creator": "Physics Girl",
+      "categories": ["Gravitation", "Energy"],
+      "topics": ["conservation", "cosmology"]
+    },
+    {
+      "id": "PK8dsAeMmPk",
+      "heading": "Watermelon vs. rubber bands",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Energy"],
+      "topics": [
+        "conservation",
+        "elastic potential energy",
+        "thermal energy",
+        "internal energy",
+        "explosions"
+      ]
+    },
+    {
+      "id": "aMqM13EUSKw",
+      "heading": "High-speed impact",
+      "creator": "",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "1D",
+        "impulse",
+        "conservation",
+        "kinetic energy",
+        "thermal energy",
+        "internal energy",
+        "collisions",
+        "inelastic collisions"
+      ]
+    },
+    {
+      "id": "XjwO9InuFJk",
+      "heading": "Face vs. ball",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "1D",
+        "impulse",
+        "conservation",
+        "kinetic energy",
+        "collisions",
+        "elastic collisions"
+      ]
+    },
+    {
+      "id": "On1CsbTwlDs",
+      "heading": "Face vs. ball 1000x slower",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "1D",
+        "impulse",
+        "conservation",
+        "kinetic energy",
+        "collisions",
+        "elastic collisions"
+      ]
+    },
+    {
+      "id": "Dm1tTSZHj8Y",
+      "heading": "Powering a house with a ShakeWeight",
+      "creator": "Physics Girl",
+      "categories": ["Energy"],
+      "topics": ["conservation", "electric potential energy", "power"]
+    },
+    {
+      "id": "WpjCDtYKcrY?start=17",
+      "heading": "Ingenious demolition",
+      "creator": "",
+      "categories": ["Momentum"],
+      "topics": ["1D", "conservation", "collisions", "inelastic collisions"]
+    },
+    {
+      "id": "M-cfAcnnqUQ",
+      "heading": "Water balloon to the face",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "impulse",
+        "kinetic energy",
+        "internal energy",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "_rFYhLt7Dlo",
+      "heading": "Catching a bullet in a watermelon",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "kinetic energy",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "8dgyPRA86K0",
+      "heading": "Giant Newton's cradle",
+      "creator": "Brusspup",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "conservation",
+        "collisions",
+        "inelastic collisions",
+        "elastic collisions",
+        "kinetic energy",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "2UHS883_P60",
+      "heading": "Stacked ball drop",
+      "creator": "Physics Girl",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "1D",
+        "collisions",
+        "elastic collisions",
+        "conservation",
+        "rocket propulsion"
+      ]
+    },
+    {
+      "id": "v9ML4GA47Rg",
+      "heading": "The physics of car crashes",
+      "creator": "Minute Physics",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "kinetic energy",
+        "internal energy",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "vWVZ6APXM4w",
+      "heading": "Bullet and block challenge",
+      "creator": "Veritasium",
+      "categories": ["Momentum", "Energy"],
+      "topics": [
+        "1D",
+        "conservation",
+        "kinetic energy",
+        "gravitational potential energy",
+        "rotational kinetic energy",
+        "thermal energy",
+        "internal energy",
+        "collisions",
+        "inelastic collisions"
+      ]
+    },
+    {
+      "id": "Pcw6vH0Eiug",
+      "heading": "Infinite energy fan - Real or fake?",
+      "creator": "",
+      "categories": ["Energy"],
+      "topics": [
+        "conservation",
+        "kinetic energy",
+        "rotational kinetic energy",
+        "thermal energy",
+        "internal energy"
+      ]
+    },
+    {
+      "id": "PplaBASQ_3M",
+      "heading": "A quick energy proof",
+      "creator": "Minute Physics",
+      "categories": ["Energy"],
+      "topics": ["conservation", "equations"]
+    },
+    {
+      "id": "XIPuGa7byk8",
+      "heading": "UnlimiTED Ed energy hack?",
+      "creator": "",
+      "categories": ["Energy"],
+      "topics": ["conservation", "electric potential energy"]
+    },
+    {
+      "id": "x4ySPDvebes",
+      "heading": "Tic tac bounce",
+      "creator": "Physics Girl",
+      "categories": ["Energy"],
+      "topics": [
+        "collisions",
+        "elastic collisions",
+        "inelastic collisions",
+        "conservation",
+        "rotational kinetic energy",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "9zso7ChaQXQ",
+      "heading": "Earth rotation",
+      "creator": "Veritasium",
+      "categories": ["Energy"],
+      "topics": [
+        "work",
+        "kinetic energy",
+        "rotational kinetic energy",
+        "internal energy"
+      ]
+    },
+    {
+      "id": "KsF_hdjWJjo",
+      "heading": "The solar system - our home in space",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Circular motion"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "tangential velocity",
+        "centripetal",
+        "Kepler's laws"
+      ]
+    },
+    {
+      "id": "_3OOK8a4l8Y",
+      "heading": "Kepler's second law",
+      "creator": "Animations for Physics",
+      "categories": ["Gravitation", "Rotation"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "Kepler's laws",
+        "angular momentum",
+        "angular velocity"
+      ]
+    },
+    {
+      "id": "u70lZSMP9Bo",
+      "heading": "How big is the Sun?",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation"],
+      "topics": ["universal gravitation", "orbit", "Kepler's laws"]
+    },
+    {
+      "id": "MTY1Kje0yLg",
+      "heading": "Gravitational field analogy",
+      "creator": "Dan Burns",
+      "categories": ["Gravitation"],
+      "topics": [
+        "universal gravitation",
+        "gravitational field",
+        "orbit",
+        "general relativity"
+      ]
+    },
+    {
+      "id": "jN-FfJKgis8",
+      "heading": "What if the Earth were hollow?",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Kinematics"],
+      "topics": [
+        "1D",
+        "freefall",
+        "universal gravitation",
+        "gravitational field"
+      ]
+    },
+    {
+      "id": "urQCmMiHKQk",
+      "heading": "How long to fall through Earth?",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Kinematics"],
+      "topics": [
+        "1D",
+        "freefall",
+        "universal gravitation",
+        "gravitational field",
+        "equations"
+      ]
+    },
+    {
+      "id": "qFjw6Lc6J2g?start=311",
+      "heading": "Orbital maneuvers",
+      "creator": "Smarter Every Day",
+      "categories": ["Energy", "Gravitation"],
+      "topics": [
+        "kinetic energy",
+        "gravitational potential energy",
+        "conservation",
+        "equations",
+        "universal gravitation",
+        "orbit"
+      ]
+    },
+    {
+      "id": "gftT3wHJGtg",
+      "heading": "The tides",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Fluids"],
+      "topics": ["universal gravitation", "orbit", "depth", "flow"]
+    },
+    {
+      "id": "mVJEi-PkkaY",
+      "heading": "The tides in 10 seconds",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Fluids"],
+      "topics": ["universal gravitation", "orbit", "depth", "flow"]
+    },
+    {
+      "id": "qFOX3AO2FjE",
+      "heading": "Gravitational anomaly",
+      "creator": "Physics Girl",
+      "categories": ["Gravitation"],
+      "topics": ["universal gravitation", "gravitational field", "orbit"]
+    },
+    {
+      "id": "K0-GxoJ_Pcg",
+      "heading": "What if the Earth stopped spinning?",
+      "creator": "Vsauce",
+      "categories": ["Gravitation", "Circular motion", "Rotation"],
+      "topics": [
+        "tangential velocity",
+        "universal gravitation",
+        "gravitational force",
+        "angular velocity",
+        "angular acceleration"
+      ]
+    },
+    {
+      "id": "MEcVOZiK4i4",
+      "heading": "Balance master",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "eXR1olg_I0w",
+      "heading": "Flying a helicopter",
+      "creator": "Smarter Every Day",
+      "categories": ["Rotation"],
+      "topics": ["torque", "rotational kinetic energy", "angular momentum"]
+    },
+    {
+      "id": "9EkUvuHBm38",
+      "heading": "Broom balance riddle",
+      "creator": "Physics Girl",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "BQJtV_YLuNE",
+      "heading": "4 chair trick",
+      "creator": "Brusspup",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "-KVPA-9hofw",
+      "heading": "Balancing act",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "Mdk78fR0ihw",
+      "heading": "Levitation illusion",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "7LkhVeW7VV0",
+      "heading": "Balancing on two fingers",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": ["torque", "center of mass", "area of support"]
+    },
+    {
+      "id": "r4wlwNP1YtA",
+      "heading": "Candle trick",
+      "creator": "Brusspup",
+      "categories": ["Rotation", "Vibration"],
+      "topics": [
+        "angular velocity",
+        "torque",
+        "angular acceleration",
+        "center of mass",
+        "rotational kinetic energy",
+        "simple harmonic motion"
+      ]
+    },
+    {
+      "id": "wQTVcaA3PQw",
+      "heading": "Spinning tube trick",
+      "creator": "Veritasium",
+      "categories": ["Rotation"],
+      "topics": ["center of mass", "moment of inertia", "angular momentum"]
+    },
+    {
+      "id": "RtWbpyjJqrU",
+      "heading": "Slow motion flipping cat",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Rotation"],
+      "topics": [
+        "gravitational force",
+        "center of mass",
+        "moment of inertia",
+        "angular momentum"
+      ]
+    },
+    {
+      "id": "705OzYq7cXU",
+      "heading": "Gravity-defying cat",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Forces", "Rotation"],
+      "topics": [
+        "gravitational force",
+        "center of mass",
+        "moment of inertia",
+        "angular momentum"
+      ]
+    },
+    {
+      "id": "czsoNaf4MeY",
+      "heading": "Balancing forks on a toothpick",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "yFRPhi0jhGc",
+      "heading": "Impossible skateboard trick",
+      "creator": "Physics Girl",
+      "categories": ["Rotation"],
+      "topics": ["center of mass", "moment of inertia", "angular momentum"]
+    },
+    {
+      "id": "U3vAoJhIWms",
+      "heading": "How long can you balance a pencil?",
+      "creator": "Minute Physics",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium",
+        "moment of inertia"
+      ]
+    },
+    {
+      "id": "-i0InwW0V9k",
+      "heading": "Detachable yo-yo",
+      "creator": "Veritasium",
+      "categories": ["Rotation"],
+      "topics": [
+        "angular momentum",
+        "rotational kinetic energy",
+        "moment of inertia"
+      ]
+    },
+    {
+      "id": "rffAjZPmkuU",
+      "heading": "String shooter",
+      "creator": "Bruce Yeany",
+      "categories": ["Rotation"],
+      "topics": ["angular momentum", "angular velocity"]
+    },
+    {
+      "id": "FehHAZ_k66U",
+      "heading": "Soda bottle holder",
+      "creator": "Brusspup",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "COSVYbdRWS4",
+      "heading": "Coin balancing trick",
+      "creator": "Crazy Russian Hacker",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "zJX_Oh4yVnc",
+      "heading": "Physics of motocross",
+      "creator": "Smarter Every Day",
+      "categories": ["Rotation"],
+      "topics": [
+        "angular velocity",
+        "angular momentum",
+        "rotational kinetic energy",
+        "moment of inertia"
+      ]
+    },
+    {
+      "id": "kAInRyWMNlA",
+      "heading": "Balancing a soda can on the edge of a glass",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "center of mass",
+        "area of support",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "QQh56geU0X8",
+      "heading": "Reliant Robin",
+      "creator": "Top Gear/Fifth Gear",
+      "categories": ["Rotation"],
+      "topics": ["torque", "center of mass", "area of support"]
+    },
+    {
+      "id": "BruL0iJW6Ok",
+      "heading": "Turning an ancient artifact into a gyroscope",
+      "creator": "ISS astronauts",
+      "categories": ["Rotation"],
+      "topics": ["torque", "angular momentum"]
+    },
+    {
+      "id": "1VPfZ_XzisU",
+      "heading": "Bizarre rotating bodies",
+      "creator": "Veritasium",
+      "categories": ["Rotation"],
+      "topics": ["center of mass", "moment of inertia", "angular momentum"]
+    },
+    {
+      "id": "MbzoeJxPEBk?start=25",
+      "heading": "Launching a spinning disk",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "angular acceleration",
+        "Newton's 2nd law",
+        "angular momentum",
+        "rotational kinetic energy"
+      ]
+    },
+    {
+      "id": "zs7x1Hu29Wc?start",
+      "heading": "Exploding CD",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Circular motion", "Rotation"],
+      "topics": [
+        "tangential velocity",
+        "fictitious forces",
+        "angular velocity",
+        "angular acceleration",
+        "rotational kinetic energy"
+      ]
+    },
+    {
+      "id": "n-DTjpde9-0",
+      "heading": "Exploding Record",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Circular motion", "Rotation"],
+      "topics": [
+        "tangential velocity",
+        "fictitious forces",
+        "angular velocity",
+        "angular acceleration",
+        "rotational kinetic energy"
+      ]
+    },
+    {
+      "id": "SXQ9VaYm3yQ",
+      "heading": "Looping pendulum",
+      "creator": "Bruce Yeany",
+      "categories": ["Rotation", "Energy"],
+      "topics": [
+        "angular momentum",
+        "angular velocity",
+        "tangential velocity",
+        "moment of inertia",
+        "rotational kinetic energy",
+        "pendulum"
+      ]
+    },
+    {
+      "id": "HgCXdNhVC1Q",
+      "heading": "4 physics riddles",
+      "creator": "Veritasium",
+      "categories": ["Rotation", "Kinematics"],
+      "topics": [
+        "moment of inertia",
+        "torque",
+        "rolling",
+        "constant velocity",
+        "equations"
+      ]
+    },
+    {
+      "id": "PNHSIEO-KOQ",
+      "heading": "Linear and angular momentum",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Momentum", "Rotation"],
+      "topics": ["vectors", "angular momentum", "conservation"]
+    },
+    {
+      "id": "3lvOiq6phl8",
+      "heading": "Center of mass trajectory",
+      "creator": "MIT Department of Physics",
+      "categories": ["Forces", "Rotation"],
+      "topics": ["2D", "gravitational force", "center of mass"]
+    },
+    {
+      "id": "qd4CVvItJlo",
+      "heading": "Physics of ice skating",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Rotation"],
+      "topics": [
+        "Newton's 1st law",
+        "mass",
+        "friction",
+        "moment of inertia",
+        "angular momentum"
+      ]
+    },
+    {
+      "id": "EQ9H_Zrk3jQ",
+      "heading": "Leaf blower chair spin",
+      "creator": "Crazy Russian Hacker",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "angular acceleration",
+        "moment of inertia",
+        "Newton's 2nd law",
+        "rotational kinetic energy"
+      ]
+    },
+    {
+      "id": "n_6p-1J551Y?start=52",
+      "heading": "Gyroscopic cube robot",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": ["angular momentum"]
+    },
+    {
+      "id": "1Tx7FgZuV3U",
+      "heading": "Bizarre spinning toys",
+      "creator": "Physics Girl",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "moment of inertia",
+        "angular momentum",
+        "rotational kinetic energy"
+      ]
+    },
+    {
+      "id": "IsCdywftyok",
+      "heading": "Slapshot analysis",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Energy"],
+      "topics": [
+        "Newton's 2nd law",
+        "work",
+        "kinetic energy",
+        "elastic potential energy"
+      ]
+    },
+    {
+      "id": "emK-qIbuJ-k?start=150",
+      "heading": "Human-powered helicopter",
+      "creator": "",
+      "categories": ["Energy"],
+      "topics": ["work", "internal energy", "power"]
+    },
+    {
+      "id": "FmnkQ2ytlO8?start=26",
+      "heading": "Physics of a figure skating spin",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "angular velocity",
+        "angular acceleration",
+        "moment of inertia",
+        "angular momentum",
+        "conservation"
+      ]
+    },
+    {
+      "id": "AQLtcEAG9v0",
+      "heading": "World record spin",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": [
+        "angular velocity",
+        "angular acceleration",
+        "moment of inertia",
+        "angular momentum",
+        "conservation"
+      ]
+    },
+    {
+      "id": "iWSu6U0Ujs8",
+      "heading": "What is angular momentum?",
+      "creator": "Minute Physics",
+      "categories": ["Rotation"],
+      "topics": ["angular momentum"]
+    },
+    {
+      "id": "GeyDf4ooPdo",
+      "heading": "Balancing flywheel",
+      "creator": "Veritasium",
+      "categories": ["Rotation"],
+      "topics": ["torque", "moment of inertia", "angular momentum"]
+    },
+    {
+      "id": "tmNXKqeUtJM",
+      "heading": "Why is the solar system flat?",
+      "creator": "Minute Physics",
+      "categories": ["Momentum", "Gravitation", "Rotation"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "universal gravitation",
+        "angular momentum",
+        "conservation",
+        "orbit"
+      ]
+    },
+    {
+      "id": "ty9QSiVC2g0",
+      "heading": "Gyroscopic precession",
+      "creator": "Veritasium",
+      "categories": ["Rotation"],
+      "topics": [
+        "torque",
+        "angular velocity",
+        "moment of inertia",
+        "angular momentum"
+      ]
+    },
+    {
+      "id": "oZAc5t2lkvo",
+      "heading": "Why do bikes stay up?",
+      "creator": "Minute Physics",
+      "categories": ["Rotation"],
+      "topics": ["torque", "moment of inertia", "angular momentum"]
+    },
+    {
+      "id": "foZlciP6gUQ?start=30",
+      "heading": "Spinning bullet",
+      "creator": "",
+      "categories": ["Rotation"],
+      "topics": ["angular momentum", "conservation"]
+    },
+    {
+      "id": "SAQ-iIJkLzA",
+      "heading": "Freefall experiments",
+      "creator": "Veritasium",
+      "categories": ["Fluids", "Rotation"],
+      "topics": ["surface tension", "center of mass", "moment of inertia"]
+    },
+    {
+      "id": "pNe6fsaCVtI",
+      "heading": "Rolling oscillation illusion",
+      "creator": "Brusspup",
+      "categories": ["Vibration"],
+      "topics": ["simple harmonic motion"]
+    },
+    {
+      "id": "JSBw-JyFgZk",
+      "heading": "Comparing oscillation to circular motion",
+      "creator": "Flipping Physics",
+      "categories": ["Vibration", "Circular motion"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "angular velocity",
+        "amplitude"
+      ]
+    },
+    {
+      "id": "Ax6Pij-CI6c",
+      "heading": "Foucault pendulum",
+      "creator": "Animations for Physics",
+      "categories": ["Vibration", "Forces", "Rotation"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "pendulum",
+        "reference frames",
+        "angular velocity"
+      ]
+    },
+    {
+      "id": "KJDEsAy9RyM",
+      "heading": "Walking water",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Vibration"],
+      "topics": [
+        "simple harmonic motion",
+        "collisions",
+        "elastic collisions",
+        "impulse"
+      ]
+    },
+    {
+      "id": "uPbzhxYTioM",
+      "heading": "Sand pendulum",
+      "creator": "Bruce Yeany",
+      "categories": ["Vibration"],
+      "topics": ["simple harmonic motion", "frequency", "beats", "pendulum"]
+    },
+    {
+      "id": "1GyiHMj67JE",
+      "heading": "Boundary conditions on a string",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["transverse", "speed", "wavelength", "strings"]
+    },
+    {
+      "id": "GYWsQcmYWiI",
+      "heading": "Spongebob sound waves",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["longitudinal", "sound", "amplitude"]
+    },
+    {
+      "id": "mXVGIb3bzHI",
+      "heading": "Sound-proof room",
+      "creator": "Veritasium",
+      "categories": ["Waves"],
+      "topics": ["sound", "amplitude"]
+    },
+    {
+      "id": "iWKFPTgkpXo",
+      "heading": "90ft vertical spike wave",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Waves"],
+      "topics": [
+        "transverse",
+        "amplitude",
+        "water",
+        "resonance",
+        "interference"
+      ]
+    },
+    {
+      "id": "NpEevfOU4Z8",
+      "heading": "Standing wave pool",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["transverse", "water", "standing waves"]
+    },
+    {
+      "id": "V_KOpEOb1KE",
+      "heading": "1D standing waves",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["transverse", "standing waves", "wavelength"]
+    },
+    {
+      "id": "sUrgko2N3OA",
+      "heading": "Circular standing waves",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["transverse", "water", "standing waves"]
+    },
+    {
+      "id": "j-zczJXSxnw",
+      "heading": "Tacoma Narrows Bridge",
+      "creator": "",
+      "categories": ["Vibration", "Waves"],
+      "topics": ["resonance"]
+    },
+    {
+      "id": "3BN5-JSsu_4",
+      "heading": "Creating standing waves",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["transverse", "wavelength", "standing waves"]
+    },
+    {
+      "id": "yVkdfJ9PkRQ",
+      "heading": "Pendulum wave",
+      "creator": "",
+      "categories": ["Vibration", "Waves"],
+      "topics": ["simple harmonic motion", "frequency", "beats", "pendulum"]
+    },
+    {
+      "id": "7_AiV12XBbI",
+      "heading": "Amazing pendulum wave effect",
+      "creator": "Brusspup",
+      "categories": ["Vibration", "Waves"],
+      "topics": ["simple harmonic motion", "frequency", "beats", "pendulum"]
+    },
+    {
+      "id": "YhMiuzyU1ag",
+      "heading": "Doppler car horn",
+      "creator": "",
+      "categories": ["Vibration", "Waves"],
+      "topics": ["simple harmonic motion", "frequency", "beats", "pendulum"]
+    },
+    {
+      "id": "GkNJvZINSEY",
+      "heading": "Types of waves",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["transverse", "longitudinal", "sound", "speed"]
+    },
+    {
+      "id": "0D2o8F2MOuI",
+      "heading": "Homemade PVC pipe instrument",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": [
+        "frequency",
+        "resonance",
+        "standing waves",
+        "sound",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "V1Q1FFTga8k",
+      "heading": "Beatboxing in slow motion",
+      "creator": "Smarter Every Day",
+      "categories": ["Waves"],
+      "topics": [
+        "frequency",
+        "resonance",
+        "standing waves",
+        "sound",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "muCPjK4nGY4?start=1",
+      "heading": "Talking piano",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["frequency", "sound", "musical instruments"]
+    },
+    {
+      "id": "-65FMJTKGLs",
+      "heading": "Perfect pitch",
+      "creator": "Physics Girl",
+      "categories": ["Waves"],
+      "topics": ["frequency", "sound", "musical instruments"]
+    },
+    {
+      "id": "1Hqm0dYKUx4",
+      "heading": "Why it's impossible to tune a piano",
+      "creator": "Minute Physics",
+      "categories": ["Waves"],
+      "topics": ["frequency", "sound", "standing waves", "musical instruments"]
+    },
+    {
+      "id": "Q3oItpVa9fs",
+      "heading": "Cymatics",
+      "creator": "Nigel Stanford",
+      "categories": ["Waves"],
+      "topics": ["sound", "musical instruments"]
+    },
+    {
+      "id": "F64xcPKKES8",
+      "heading": "Impossible note",
+      "creator": "Physics Girl",
+      "categories": ["Waves"],
+      "topics": [
+        "frequency",
+        "resonance",
+        "standing waves",
+        "sound",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "lAEXH9DAH98",
+      "heading": "Wine glass orchestra",
+      "creator": "",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "resonance",
+        "sound",
+        "standing waves",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "Oc27GxSD_bI",
+      "heading": "Breaking a glass with your voice",
+      "creator": "Physics Girl",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "amplitude",
+        "resonance",
+        "sound"
+      ]
+    },
+    {
+      "id": "xbuvcQrAOSk",
+      "heading": "Glass explosion",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Waves"],
+      "topics": ["speed", "solids"]
+    },
+    {
+      "id": "gWGLAAYdbbc",
+      "heading": "Fighter jet sonic boom",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["amplitude", "sound", "Doppler effect"]
+    },
+    {
+      "id": "MgqIWDPMALk",
+      "heading": "Cannon shockwave in slow motion",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Energy", "Waves", "Fluids"],
+      "topics": [
+        "impulse",
+        "conservation",
+        "explosion",
+        "thermal energy",
+        "kinetic energy",
+        "Doppler effect",
+        "speed",
+        "pressure"
+      ]
+    },
+    {
+      "id": "GIMVge5TYz4",
+      "heading": "How fast does glass crack?",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Waves"],
+      "topics": ["speed", "solids"]
+    },
+    {
+      "id": "imoxDcn2Sgo",
+      "heading": "Fire engine Doppler effect",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["frequency", "sound", "Doppler effect"]
+    },
+    {
+      "id": "JO4_VHM69oI",
+      "heading": "The sonic boom problem",
+      "creator": "TED Ed",
+      "categories": ["Waves"],
+      "topics": ["amplitude", "sound", "Doppler effect"]
+    },
+    {
+      "id": "H-iCZElJ8m0",
+      "heading": "Hearing test",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["frequency", "sound"]
+    },
+    {
+      "id": "d-XbjFn3aqE",
+      "heading": "Helium vs. sulfur hexafluoride",
+      "creator": "Mythbusters",
+      "categories": ["Waves"],
+      "topics": ["frequency", "speed", "sound"]
+    },
+    {
+      "id": "e-c6S6SdkPo",
+      "heading": "Metronome mystery",
+      "creator": "Mythbusters",
+      "categories": ["Vibration"],
+      "topics": ["simple harmonic motion", "resonance", "pendulum"]
+    },
+    {
+      "id": "JWToUATLGzs",
+      "heading": "Metronome resonance",
+      "creator": "",
+      "categories": ["Vibration"],
+      "topics": ["simple harmonic motion", "resonance", "pendulum"]
+    },
+    {
+      "id": "uENITui5_jU",
+      "heading": "Sound and water resonance",
+      "creator": "Brusspup",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "beats",
+        "sound",
+        "resonance"
+      ]
+    },
+    {
+      "id": "TKF6nFzpHBU",
+      "heading": "Guitar string vibration",
+      "creator": "",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "transverse",
+        "frequency",
+        "amplitude",
+        "speed",
+        "wavelength",
+        "strings",
+        "sound",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "7cDAYFTXq3E",
+      "heading": "Transverse and longitudinal waves",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["transverse", "frequency", "amplitude", "speed", "wavelength"]
+    },
+    {
+      "id": "wYoxOJDrZzw",
+      "heading": "Chiadni plates",
+      "creator": "Physics Girl",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "resonance",
+        "frequency",
+        "wavelength",
+        "sound",
+        "standing waves"
+      ]
+    },
+    {
+      "id": "1yaqUI4b974",
+      "heading": "2D plate vibration",
+      "creator": "Brusspup",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "resonance",
+        "frequency",
+        "wavelength",
+        "sound",
+        "standing waves"
+      ]
+    },
+    {
+      "id": "ABjRnSYw-4k",
+      "heading": "Acoustic levitation",
+      "creator": "Physics Girl",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "longitudinal",
+        "standing waves",
+        "wavelength",
+        "sound",
+        "resonance"
+      ]
+    },
+    {
+      "id": "0K8zs-KSitc",
+      "heading": "Acoustic levitation in slow motion",
+      "creator": "Smarter Every Day",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "longitudinal",
+        "standing waves",
+        "wavelength",
+        "amplitude",
+        "sound",
+        "resonance"
+      ]
+    },
+    {
+      "id": "XpNbyfxxkWE",
+      "heading": "Ultrasonic levitation",
+      "creator": "Harvard Lecture Demonstrations",
+      "categories": ["Waves"],
+      "topics": [
+        "longitudinal",
+        "standing waves",
+        "wavelength",
+        "sound",
+        "resonance"
+      ]
+    },
+    {
+      "id": "669AcEBpdsY",
+      "heading": "Levitating on air",
+      "creator": "",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "longitudinal",
+        "standing waves",
+        "wavelength",
+        "sound",
+        "resonance"
+      ]
+    },
+    {
+      "id": "PCYv0_qPk-4",
+      "heading": "Wave interference",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": [
+        "transverse",
+        "wavelength",
+        "frequency",
+        "water",
+        "interference"
+      ]
+    },
+    {
+      "id": "-bOij4uPQ7s",
+      "heading": "Acoustic interference",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": [
+        "longitudinal",
+        "wavelength",
+        "frequency",
+        "sound",
+        "interference"
+      ]
+    },
+    {
+      "id": "2awbKQ2DLRE",
+      "heading": "Pyro board",
+      "creator": "Veritasium",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "resonance",
+        "frequency",
+        "wavelength",
+        "sound",
+        "standing waves"
+      ]
+    },
+    {
+      "id": "VCERs0v1OoI",
+      "heading": "Tuning fork in slow mo",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "sound",
+        "musical instruments"
+      ]
+    },
+
+    {
+      "id": "4gibcRfp4zA",
+      "heading": "Oscilliscope music",
+      "creator": "Smarter Every Day",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "frequency",
+        "amplitude",
+        "wavelength",
+        "sound",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "95macpu6xgM",
+      "heading": "Pulses collide 1",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["transverse", "wavelength", "speed", "interference", "strings"]
+    },
+    {
+      "id": "8IRZYOC7DeU",
+      "heading": "Pulses collide 2",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["transverse", "wavelength", "speed", "interference", "strings"]
+    },
+    {
+      "id": "j_OyHUqIIOU",
+      "heading": "Giant 6ft water balloon",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Fluids", "Waves"],
+      "topics": ["pressure", "liquids", "transverse", "speed", "wavelength"]
+    },
+    {
+      "id": "BE827gwnnk4",
+      "heading": "Shattering a wine glass",
+      "creator": "Time Warp",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "simple harmonic motion",
+        "frequency",
+        "resonance",
+        "sound",
+        "standing waves",
+        "musical instruments"
+      ]
+    },
+    {
+      "id": "BPwdlEgLn5Q",
+      "heading": "Shockwave shadows",
+      "creator": "Smarter Every Day",
+      "categories": ["Waves", "Fluids"],
+      "topics": [
+        "longitudinal",
+        "amplitude",
+        "speed",
+        "sound",
+        "Doppler effect",
+        "density",
+        "pressure",
+        "drag"
+      ]
+    },
+    {
+      "id": "a3RfULw7aAY",
+      "heading": "Doppler car horn",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["frequency", "Doppler effect", "sound"]
+    },
+    {
+      "id": "cK2-6cgqgYA",
+      "heading": "Visualizing sound",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": ["longitudinal", "frequency", "speed", "wavelength", "sound"]
+    },
+    {
+      "id": "6RztHB24djM",
+      "heading": "Doppler effect",
+      "creator": "Animations for Physics",
+      "categories": ["Waves"],
+      "topics": ["Doppler effect", "wavelength", "frequency"]
+    },
+    {
+      "id": "HpovwbPGEoo",
+      "heading": "Rubens' Tube",
+      "creator": "",
+      "categories": ["Waves"],
+      "topics": [
+        "frequency",
+        "wavelength",
+        "amplitude",
+        "sound",
+        "standing waves"
+      ]
+    },
+    {
+      "id": "eAdanPfQdCA",
+      "heading": "The astounding physics of N95 masks",
+      "creator": "Minute Physics",
+      "categories": ["Electricity", "Thermodynamics"],
+      "topics": [
+        "electric charge",
+        "electric field",
+        "polarization",
+        "gases",
+        "Brownian motion",
+        "convection"
+      ]
+    },
+    {
+      "id": "ViZNgU-Yt-Y",
+      "heading": "9 science tricks using static electricity",
+      "creator": "Brusspup",
+      "categories": ["Electricity"],
+      "topics": [
+        "electric charge",
+        "charging by friction",
+        "polarization",
+        "conductors",
+        "insulators",
+        "electric field",
+        "electric potential",
+        "electroscope",
+        "grounding"
+      ]
+    },
+
+    {
+      "id": "8OePt0fSjqs",
+      "heading": "Static wizard",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": ["electric charge", "charging by friction"]
+    },
+    {
+      "id": "Fyko81WAvvQ",
+      "heading": "Dr. Megavolt",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": ["conductors", "lightning", "grounding", "Faraday cage"]
+    },
+    {
+      "id": "-Rb9guSEeVE",
+      "heading": "Visualizing electric potential",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity"],
+      "topics": [
+        "electric charge",
+        "electric field",
+        "electric potential",
+        "electric current",
+        "electric potential energy"
+      ]
+    },
+    {
+      "id": "ot4_jVFXxUU",
+      "heading": "Phone in a microwave",
+      "creator": "Physics Girl",
+      "categories": ["Electricity"],
+      "topics": ["conductors", "electric field", "Faraday cage"]
+    },
+    {
+      "id": "qHrBhgwq__Q",
+      "heading": "Charged space needle",
+      "creator": "ISS astronauts",
+      "categories": ["Electricity"],
+      "topics": ["electric charge", "charging by friction", "polarization"]
+    },
+    {
+      "id": "qQKhIK4pvYo",
+      "heading": "Lightning strike at 103,000 fps",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Electricity"],
+      "topics": ["conductors", "lightning", "grounding"]
+    },
+    {
+      "id": "_fTC_Ud_k3U",
+      "heading": "Handheld Tesla coil",
+      "creator": "Smarter Every Day",
+      "categories": ["Electricity"],
+      "topics": ["electric field", "capacitors", "electric potential"]
+    },
+    {
+      "id": "gLPS5rVzyE0",
+      "heading": "Nearly uniform E field model",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity"],
+      "topics": ["electric charge", "electric field", "capacitors"]
+    },
+    {
+      "id": "f_MZNsEqyQw",
+      "heading": "Capacitor analogy",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric field",
+        "electric potential",
+        "electric potential energy",
+        "capacitors"
+      ]
+    },
+    {
+      "id": "B1O2jcfOylU",
+      "heading": "Musical Tesla coils",
+      "creator": "",
+      "categories": ["Electricity", "Waves"],
+      "topics": ["electric field", "sound", "frequency"]
+    },
+    {
+      "id": "aO-phqmyqdY",
+      "heading": "Static dog",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": ["electric charge", "charging by friction", "insulators"]
+    },
+    {
+      "id": "TE2r0vjkXK0",
+      "heading": "Static cat",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": ["electric charge", "charging by friction", "insulators"]
+    },
+    {
+      "id": "Zi4kXgDBFhw",
+      "heading": "Tesla cage of death",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": ["conductors", "Faraday cage"]
+    },
+    {
+      "id": "LB8Rhcb4eQM",
+      "heading": "Electric field lines",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity"],
+      "topics": ["electric charge", "electric field", "vectors"]
+    },
+    {
+      "id": "4S0EBxT60pw",
+      "heading": "Electric shock getting out of a car",
+      "creator": "Physics Girl",
+      "categories": ["Electricity"],
+      "topics": [
+        "electric charge",
+        "charging by friction",
+        "electric potential",
+        "grounding"
+      ]
+    },
+    {
+      "id": "ve6XGKZxYxA",
+      "heading": "Lightning and cars",
+      "creator": "Top Gear/Fifth Gear",
+      "categories": ["Electricity"],
+      "topics": ["conductors", "Faraday cage"]
+    },
+    {
+      "id": "g4ph-h7l_aM",
+      "heading": "Stick vs. power lines",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "resistance",
+        "Ohm's law"
+      ]
+    },
+    {
+      "id": "m4jzgqZu-4s",
+      "heading": "Electric circuit analogy",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential",
+        "electric potential energy",
+        "batteries",
+        "resistance",
+        "Ohm's law"
+      ]
+    },
+    {
+      "id": "4SIT0aU_FRw",
+      "heading": "Electric fence chain",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": [
+        "conductors",
+        "insulators",
+        "circuits",
+        "electric current",
+        "resistance",
+        "grounding"
+      ]
+    },
+    {
+      "id": "AdPqWv-eVIc",
+      "heading": "Will batteries power the world?",
+      "creator": "Minute Physics",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric charge",
+        "electric current",
+        "voltage",
+        "Ohm's law",
+        "batteries",
+        "electric potential"
+      ]
+    },
+    {
+      "id": "8hwLHdBTQ7s",
+      "heading": "Fun with 9V batteries",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "resistance",
+        "Ohm's law",
+        "batteries",
+        "electric potential"
+      ]
+    },
+    {
+      "id": "9-E7koihWF4",
+      "heading": "Struck by lightning",
+      "creator": "Physics Girl",
+      "categories": ["Electricity"],
+      "topics": ["conductors", "lightning"]
+    },
+    {
+      "id": "Saf9fYXHnyA",
+      "heading": "Plotting electric field",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity"],
+      "topics": ["electric field", "electric potential"]
+    },
+    {
+      "id": "s9eE2jFoioM",
+      "heading": "Vaporizing a pencil",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "resistance",
+        "Ohm's law"
+      ]
+    },
+    {
+      "id": "tr5ZB1eFhwc",
+      "heading": "9V battery trick",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": ["circuits", "batteries", "voltage", "electric potential"]
+    },
+    {
+      "id": "9OVtk6G2TnQ",
+      "heading": "How batteries work",
+      "creator": "TED Ed",
+      "categories": ["Electricity"],
+      "topics": ["circuits", "batteries", "voltage", "electric potential"]
+    },
+    {
+      "id": "G3H5lKoWPpY",
+      "heading": "Ohm's law",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential",
+        "electric potential energy",
+        "batteries",
+        "resistance",
+        "Ohm's law"
+      ]
+    },
+    {
+      "id": "XvkEExdl-w4",
+      "heading": "9 amazing magnet gadgets",
+      "creator": "Brusspup",
+      "categories": ["Magnetism"],
+      "topics": [
+        "magnets",
+        "magnetic field",
+        "electric current",
+        "magnetic force",
+        "electromagnetic induction",
+        "Lenz's law",
+        "eddy currents",
+        "generators",
+        "ferrofluid"
+      ]
+    },
+    {
+      "id": "BqKeiiezqzc",
+      "heading": "Magnetic levitation",
+      "creator": "Minute Physics",
+      "categories": ["Magnetism"],
+      "topics": ["magnetic field", "magnets", "magnetic force", "solenoid"]
+    },
+    {
+      "id": "B40OWDZ-Tf4",
+      "heading": "Magnetic field in a toroid",
+      "creator": "Animations for Physics",
+      "categories": ["Magnetism"],
+      "topics": ["magnetic field", "solenoid"]
+    },
+    {
+      "id": "pB-qAwkgfFQ",
+      "heading": "Oxygen is magnetic",
+      "creator": "Physics Girl",
+      "categories": ["Magnetism", "Thermodynamics"],
+      "topics": ["magnetic field", "magnets", "magnetic force", "temperature"]
+    },
+    {
+      "id": "V-M07N4a6-Y",
+      "heading": "Magnetic field visualizer",
+      "creator": "",
+      "categories": ["Magnetism"],
+      "topics": ["magnetic field", "electric current", "solenoid"]
+    },
+    {
+      "id": "txmKr69jGBk",
+      "heading": "Levitating induction plate",
+      "creator": "Veritasium",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": ["electric current", "electromagnetic induction", "Lenz's law"]
+    },
+    {
+      "id": "6NDztGfWpe4",
+      "heading": "Faraday's law of induction",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnetic field",
+        "electric current",
+        "circuits",
+        "electromagnetic induction",
+        "Lenz's law"
+      ]
+    },
+    {
+      "id": "kxLoycj4pJY",
+      "heading": "Tattooing in slow motion",
+      "creator": "Smarter Every Day",
+      "categories": ["Magnetism"],
+      "topics": [
+        "electric current",
+        "electromagnetic induction",
+        "solenoid",
+        "motors"
+      ]
+    },
+    {
+      "id": "bkSsgTQOXVI",
+      "heading": "Lenz's law",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnetic field",
+        "electric current",
+        "electromagnetic induction",
+        "Lenz's law"
+      ]
+    },
+    {
+      "id": "QGytW_C6hR8",
+      "heading": "World's strongest magnet",
+      "creator": "",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "magnetic field", "solenoid"]
+    },
+    {
+      "id": "ZxtPGN8Ipa0",
+      "heading": "Circular motion in a magnetic field",
+      "creator": "Animations for Physics",
+      "categories": ["Magnetism", "Circular motion"],
+      "topics": [
+        "magnetic field",
+        "magnetic force",
+        "tangential velocity",
+        "centripetal",
+        "speed",
+        "vectors"
+      ]
+    },
+    {
+      "id": "IANBoybVApQ",
+      "heading": "Mind-blowing magnets",
+      "creator": "Smarter Every Day",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "magnetic field", "electric charge"]
+    },
+    {
+      "id": "NqdOyxJZj0U",
+      "heading": "World's first electric generator",
+      "creator": "Veritasium",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "electric current",
+        "generators",
+        "electromagnetic induction",
+        "Lenz's law"
+      ]
+    },
+    {
+      "id": "E-3yQqgu8OA",
+      "heading": "Magnetic torque",
+      "creator": "Animations for Physics",
+      "categories": ["Magnetism", "Electricity"],
+      "topics": ["magnetic field", "magnetic force", "electric current"]
+    },
+    {
+      "id": "9k7zywli4Vg",
+      "heading": "Magnetic battery train",
+      "creator": "Physics Girl",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnets",
+        "electric current",
+        "electromagnetic induction",
+        "motors"
+      ]
+    },
+    {
+      "id": "ClFQQ0uzst4",
+      "heading": "Magnet making current",
+      "creator": "Smarter Every Day",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": ["electric current", "electromagnetic induction", "Lenz's law"]
+    },
+    {
+      "id": "aMH7pdn-qr4",
+      "heading": "DC motor & magnetic force",
+      "creator": "Animations for Physics",
+      "categories": ["Magnetism"],
+      "topics": [
+        "electric current",
+        "electromagnetic induction",
+        "magnetic force",
+        "magnetic field",
+        "motors"
+      ]
+    },
+    {
+      "id": "rAYW9n8i-C4",
+      "heading": "Earth's magnetic field",
+      "creator": "Veritasium",
+      "categories": ["Magnetism"],
+      "topics": [
+        "magnetic field",
+        "electric current",
+        "electromagnetic induction"
+      ]
+    },
+    {
+      "id": "_yEu2R1gYSs",
+      "heading": "Magnet vs. monitor",
+      "creator": "Brainiac75",
+      "categories": ["Magnetism"],
+      "topics": [
+        "magnets",
+        "magnetic field",
+        "electric current",
+        "right-hand rule"
+      ]
+    },
+    {
+      "id": "AXOa66-k9MA",
+      "heading": "Exploding a soda can with electromagnets",
+      "creator": "Physics Girl",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "electric current", "electromagnetic induction"]
+    },
+    {
+      "id": "s1xS-ssfTM8",
+      "heading": "Magnet vs. CRT TV",
+      "creator": "",
+      "categories": ["Magnetism"],
+      "topics": [
+        "magnets",
+        "magnetic field",
+        "electric current",
+        "right-hand rule"
+      ]
+    },
+    {
+      "id": "8i2OVqWo9s0",
+      "heading": "Magnetic field trap",
+      "creator": "",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnetic field",
+        "electric current",
+        "solenoid",
+        "electromagnetic induction",
+        "eddy currents"
+      ]
+    },
+    {
+      "id": "k4xsqw463Hs",
+      "heading": "Induction forge",
+      "creator": "",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnetic field",
+        "electric current",
+        "solenoid",
+        "electromagnetic induction",
+        "eddy currents"
+      ]
+    },
+    {
+      "id": "kRlwI2iV7x8",
+      "heading": "Touching plasma",
+      "creator": "",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "resistance",
+        "Ohm's law",
+        "batteries",
+        "electric potential"
+      ]
+    },
+    {
+      "id": "JZjMuIHoBeg",
+      "heading": "Direct current vs. alternating current",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "batteries",
+        "electric potential"
+      ]
+    },
+    {
+      "id": "J8A6QUxfk8c",
+      "heading": "AC to DC rectifiers",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential"
+      ]
+    },
+    {
+      "id": "d2TDXKfBaMQ",
+      "heading": "Shrinking a quarter",
+      "creator": "Physics Girl",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnetic field",
+        "electric current",
+        "solenoid",
+        "electromagnetic induction",
+        "eddy currents"
+      ]
+    },
+    {
+      "id": "keMpUaoA3Tg",
+      "heading": "Copper pipe and magnet",
+      "creator": "",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": ["magnets", "electromagnetic induction", "eddy currents"]
+    },
+    {
+      "id": "tC13_BkDieU",
+      "heading": "Breaking stuff with magnets",
+      "creator": "Magnet Expert",
+      "categories": ["Magnetism"],
+      "topics": ["magnets"]
+    },
+    {
+      "id": "hFAOXdXZ5TM",
+      "heading": "How do magnets work?",
+      "creator": "Veritasium",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "magnetic field"]
+    },
+    {
+      "id": "HodWkE0G28M",
+      "heading": "Magnets in your phone",
+      "creator": "Physics Girl",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "magnetic field"]
+    },
+    {
+      "id": "OU4VoE15wIw",
+      "heading": "Erasing a credit card",
+      "creator": "Physics Girl",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "magnetic field", "magnetic force"]
+    },
+    {
+      "id": "1TKSfAkWWN0",
+      "heading": "Magnetism and relativity",
+      "creator": "Veritasium",
+      "categories": ["Magnetism", "Modern physics"],
+      "topics": [
+        "magnets",
+        "magnetic field",
+        "electric current",
+        "special relativity"
+      ]
+    },
+    {
+      "id": "oPzJr1jjHnQ",
+      "heading": "Simple motor",
+      "creator": "Magnetic Games",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "magnets",
+        "electric current",
+        "electromagnetic induction",
+        "batteries",
+        "motors"
+      ]
+    },
+    {
+      "id": "FjNnRyLexNM",
+      "heading": "DC electric motor",
+      "creator": "Animations for Physics",
+      "categories": ["Magnetism"],
+      "topics": [
+        "electric current",
+        "electromagnetic induction",
+        "magnetic force",
+        "magnetic field",
+        "motors"
+      ]
+    },
+    {
+      "id": "ukBFPrXiKWA",
+      "heading": "Inductors and inductance",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity", "Magnetism"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential",
+        "electric potential energy",
+        "solenoid",
+        "magnetic field",
+        "electromagnetic induction"
+      ]
+    },
+    {
+      "id": "04v4qWVtdPs",
+      "heading": "Ferrofluid in slow mo",
+      "creator": "Physics Girl",
+      "categories": ["Magnetism"],
+      "topics": ["magnetic field", "ferrofluid"]
+    },
+    {
+      "id": "kL8R8SfuXp8",
+      "heading": "Ferrofluid",
+      "creator": "Household Hacker",
+      "categories": ["Magnetism"],
+      "topics": ["magnets", "magnetic field", "ferrofluid"]
+    },
+    {
+      "id": "RtBtD0_KZ9o",
+      "heading": "Ferrofluid and glow sticks",
+      "creator": "Physics Girl",
+      "categories": ["Magnetism"],
+      "topics": ["magnetic field", "ferrofluid"]
+    },
+    {
+      "id": "uNOKWoDtbSk",
+      "heading": "Vision and color",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": ["color", "vision", "wavelength"]
+    },
+    {
+      "id": "rVE8PFYlwSM",
+      "heading": "Solar vs. lunar eclipses",
+      "creator": "Physics Girl",
+      "categories": ["Gravitation", "Light"],
+      "topics": ["orbit", "shadows"]
+    },
+    {
+      "id": "G10m2ZZRH4U",
+      "heading": "Total eclipse 2017",
+      "creator": "Veritasium",
+      "categories": ["Gravitation", "Light"],
+      "topics": ["orbit", "shadows"]
+    },
+    {
+      "id": "lepQoU4oek4",
+      "heading": "ISS eclipse transit",
+      "creator": "Smarter Every Day",
+      "categories": ["Gravitation", "Light"],
+      "topics": ["orbit", "shadows"]
+    },
+    {
+      "id": "liqF6EamiE4",
+      "heading": "Shadow mystery",
+      "creator": "Veritasium",
+      "categories": ["Light"],
+      "topics": ["shadows", "real images"]
+    },
+    {
+      "id": "OydqR_7_DjI",
+      "heading": "How to have perfect vision",
+      "creator": "Minute Physics",
+      "categories": ["Light"],
+      "topics": ["shadows", "real images", "lenses"]
+    },
+    {
+      "id": "vBpxhfBlVLU",
+      "heading": "Which way does a mirror flip an image?",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": ["reflection", "mirrors", "virtual images"]
+    },
+    {
+      "id": "1t4dOPxKgrY",
+      "heading": "Which way does a mirror flip an image?",
+      "creator": "Minute Physics",
+      "categories": ["Light"],
+      "topics": ["reflection", "mirrors", "virtual images"]
+    },
+    {
+      "id": "dsRsap2_RAc",
+      "heading": "Moon reflector",
+      "creator": "Smarter Every Day",
+      "categories": ["Light", "Gravitation"],
+      "topics": ["reflection", "mirrors", "virtual images", "orbit"]
+    },
+    {
+      "id": "Pw0IZg7_4mo",
+      "heading": "Phobos & Deimos",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Circular motion"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "tangential velocity",
+        "Kepler's laws",
+        "centripetal"
+      ]
+    },
+    {
+      "id": "VTONKZkaVX4",
+      "heading": "Infinity mirror",
+      "creator": "Brusspup",
+      "categories": ["Light"],
+      "topics": ["reflection", "mirrors", "virtual images"]
+    },
+    {
+      "id": "p8oqDwb4zj8",
+      "heading": "Spoon image",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": [
+        "reflection",
+        "mirrors",
+        "focal point",
+        "virtual images",
+        "real images",
+        "concave mirrors",
+        "vision"
+      ]
+    },
+    {
+      "id": "R-hV_AawLSE",
+      "heading": "Hotel death ray",
+      "creator": "",
+      "categories": ["Light"],
+      "topics": ["reflection", "mirrors", "concave mirrors", "focal point"]
+    },
+    {
+      "id": "h6NqaDxi2KY",
+      "heading": "Concave mirror lightbulb illusion",
+      "creator": "Bruce Yeany",
+      "categories": ["Light"],
+      "topics": [
+        "reflection",
+        "mirrors",
+        "concave mirrors",
+        "focal point",
+        "real images"
+      ]
+    },
+    {
+      "id": "zRP82omMX0g",
+      "heading": "Inside a spherical mirror",
+      "creator": "Vsauce",
+      "categories": ["Light"],
+      "topics": [
+        "reflection",
+        "mirrors",
+        "focal point",
+        "virtual images",
+        "real images",
+        "concave mirrors",
+        "vision"
+      ]
+    },
+    {
+      "id": "anJuZdL_vsw",
+      "heading": "Invisible bottle",
+      "creator": "Brusspup",
+      "categories": ["Light"],
+      "topics": ["refraction", "Snell's law"]
+    },
+    {
+      "id": "33UMkPe93Ko",
+      "heading": "World's largest camera lens",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": ["refraction", "lenses", "focal point"]
+    },
+    {
+      "id": "E85FZ7WLvao",
+      "heading": "Chromatic aberration",
+      "creator": "Animations for Physics",
+      "categories": ["Light"],
+      "topics": ["refraction", "lenses", "Snell's law", "real images"]
+    },
+    {
+      "id": "l8_fZPHasdo",
+      "heading": "How we see color",
+      "creator": "TED Ed",
+      "categories": ["Light"],
+      "topics": ["color", "vision", "wavelength"]
+    },
+    {
+      "id": "FJB7gbjiJKw",
+      "heading": "What's the brightest thing in the universe?",
+      "creator": "Vsauce",
+      "categories": ["Gravitation", "Light", "Modern physics"],
+      "topics": [
+        "cosmology",
+        "electromagnetic waves",
+        "wavelength",
+        "blackbody radiation",
+        "photons",
+        "atomic physics",
+        "spectra",
+        "nuclear physics",
+        "mass-energy equivalence",
+        "fusion"
+      ]
+    },
+    {
+      "id": "oCEKMEeZXug",
+      "heading": "How modern lightbulbs work",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics", "Light"],
+      "topics": [
+        "atomic physics",
+        "spectra",
+        "color",
+        "wavelength",
+        "electromagnetic waves",
+        "photons"
+      ]
+    },
+    {
+      "id": "psp_8xJfeWU",
+      "heading": "Could you replace your eye with a camera?",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": ["refraction", "lenses", "vision"]
+    },
+    {
+      "id": "pUwVZUOSTvk",
+      "heading": "Underwater laser",
+      "creator": "Smarter Every Day",
+      "categories": ["Light"],
+      "topics": [
+        "reflection",
+        "refraction",
+        "Snell's law",
+        "total internal reflection",
+        "lasers"
+      ]
+    },
+    {
+      "id": "0MwMkBET_5I",
+      "heading": "Water fiber optics",
+      "creator": "",
+      "categories": ["Light"],
+      "topics": ["reflection", "Snell's law", "total internal reflection"]
+    },
+    {
+      "id": "xkDhQGXqwCM",
+      "heading": "How rainbows form",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": [
+        "color",
+        "refraction",
+        "Snell's law",
+        "total internal reflection"
+      ]
+    },
+    {
+      "id": "9udYi7exojk",
+      "heading": "This is not a rainbow",
+      "creator": "Minute Physics",
+      "categories": ["Light"],
+      "topics": [
+        "color",
+        "refraction",
+        "Snell's law",
+        "total internal reflection"
+      ]
+    },
+    {
+      "id": "7k85eD_tQZo",
+      "heading": "Rainbow science",
+      "creator": "Vsauce",
+      "categories": ["Light"],
+      "topics": [
+        "color",
+        "refraction",
+        "Snell's law",
+        "total internal reflection"
+      ]
+    },
+    {
+      "id": "Iuv6hY6zsd0",
+      "heading": "Double slit experiment",
+      "creator": "Veritasium",
+      "categories": ["Light", "Waves"],
+      "topics": ["wavelength", "interference"]
+    },
+    {
+      "id": "FAivtXJOsiI",
+      "heading": "The speed of light in glass",
+      "creator": "Minute Physics",
+      "categories": ["Light", "Waves"],
+      "topics": ["refraction", "Snell's law", "speed", "wavelength"]
+    },
+    {
+      "id": "IXxZRZxafEQ",
+      "heading": "What is light?",
+      "creator": "Kurzgesagt",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "color",
+        "vision",
+        "electromagnetic waves",
+        "wavelength",
+        "blackbody radiation",
+        "photoelectric effect",
+        "photons",
+        "atomic physics",
+        "spectra",
+        "quantum mechanics"
+      ]
+    },
+    {
+      "id": "7Ys_yKGNFRQ",
+      "heading": "Filming the speed of light",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Modern physics", "Light"],
+      "topics": ["photons", "wavelength", "electromagnetic waves", "speed"]
+    },
+    {
+      "id": "LE2v3sUzTH4",
+      "heading": "Butterfly wings",
+      "creator": "Smarter Every Day",
+      "categories": ["Light"],
+      "topics": [
+        "color",
+        "reflection",
+        "wavelength",
+        "interference",
+        "diffraction"
+      ]
+    },
+    {
+      "id": "y9c8oZ49pFc",
+      "heading": "The brightest part of a shadow",
+      "creator": "Veritasium",
+      "categories": ["Light"],
+      "topics": ["lasers", "diffraction"]
+    },
+    {
+      "id": "JTvcpdfGUtQ",
+      "heading": "What is the speed of dark?",
+      "creator": "Vsauce",
+      "categories": ["Light", "Waves"],
+      "topics": ["wavelength", "electromagnetic waves", "interference", "color"]
+    },
+    {
+      "id": "O0PawPSdk28",
+      "heading": "Light waves, visible and invisible",
+      "creator": "TED Ed",
+      "categories": ["Modern physics", "Light"],
+      "topics": [
+        "spectra",
+        "color",
+        "wavelength",
+        "frequency",
+        "electromagnetic waves",
+        "photons",
+        "vision"
+      ]
+    },
+    {
+      "id": "zL_HAmWQTgA",
+      "heading": "Amazing secret monitor",
+      "creator": "Brusspup",
+      "categories": ["Light"],
+      "topics": ["electromagnetic waves", "polarization"]
+    },
+    {
+      "id": "8YkfEft4p-w",
+      "heading": "Polarization of light",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Light", "Electricity", "Magnetism", "Waves"],
+      "topics": [
+        "electromagnetic waves",
+        "polarization",
+        "electric field",
+        "magnetic field",
+        "wavelength",
+        "amplitude",
+        "speed",
+        "vectors"
+      ]
+    },
+    {
+      "id": "NafbGOQBlQs",
+      "heading": "Why the sun yellow and sky blue?",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics", "Light"],
+      "topics": [
+        "atomic physics",
+        "spectra",
+        "color",
+        "wavelength",
+        "electromagnetic waves",
+        "polarization"
+      ]
+    },
+    {
+      "id": "-yrZpTHBEss",
+      "heading": "What color is a mirror?",
+      "creator": "Vsauce",
+      "categories": ["Light", "Modern physics"],
+      "topics": ["reflection", "mirrors", "spectra", "wavelength"]
+    },
+    {
+      "id": "tbR93plA1WU",
+      "heading": "Standing electromagnetic waves",
+      "creator": "Animations for Physics",
+      "categories": ["Electricity", "Light", "Waves"],
+      "topics": [
+        "electric charge",
+        "electric field",
+        "standing waves",
+        "electromagnetic waves",
+        "wavelength"
+      ]
+    },
+    {
+      "id": "wCrtk-pyP0I",
+      "heading": "Microwave grape plasma",
+      "creator": "Veritasium",
+      "categories": ["Electricity", "Light", "Waves"],
+      "topics": [
+        "electric charge",
+        "electric field",
+        "standing waves",
+        "electromagnetic waves",
+        "wavelength"
+      ]
+    },
+    {
+      "id": "doSR9Mq_taw",
+      "heading": "Why the sky is blue (10 seconds)",
+      "creator": "Minute Physics",
+      "categories": ["Light"],
+      "topics": ["color", "wavelength", "electromagnetic waves", "polarization"]
+    },
+    {
+      "id": "lW4Uq_2VPhE",
+      "heading": "Working with lasers",
+      "creator": "Veritasium",
+      "categories": ["Light"],
+      "topics": ["lasers", "reflection"]
+    },
+    {
+      "id": "y3SBSbsdiYg",
+      "heading": "How lasers work",
+      "creator": "Minute Physics",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "lasers",
+        "reflection",
+        "polarization",
+        "photons",
+        "atomic physics",
+        "spectra",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "cJipa07DoHs",
+      "heading": "Best spot in the microwave",
+      "creator": "Smarter Every Day",
+      "categories": ["Electricity", "Light", "Waves"],
+      "topics": [
+        "electric field",
+        "standing waves",
+        "electromagnetic waves",
+        "wavelength"
+      ]
+    },
+    {
+      "id": "6IeeshkVATY",
+      "heading": "Seeing the smallest things",
+      "creator": "Physics Girl",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "wavelength",
+        "electromagnetic waves",
+        "photons",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "S20-1_XqVPM",
+      "heading": "Laser hair removal",
+      "creator": "Veritasium",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": ["lasers", "radiation", "thermal energy"]
+    },
+    {
+      "id": "D0B7F5UbTOQ",
+      "heading": "Later tattoo removal",
+      "creator": "Smarter Every Day",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": ["lasers", "radiation", "thermal energy", "solids"]
+    },
+    {
+      "id": "z0_nuvPKIi8",
+      "heading": "Melting rock with sunlight",
+      "creator": "",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": ["mirrors", "concave mirrors", "focal point", "radiation"]
+    },
+    {
+      "id": "Um0ZXhrQUJ4",
+      "heading": "What is color?",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": ["color", "vision", "wavelength"]
+    },
+    {
+      "id": "R3unPcJDbCc",
+      "heading": "This is not yellow",
+      "creator": "Vsauce",
+      "categories": ["Light"],
+      "topics": ["color", "vision", "wavelength"]
+    },
+    {
+      "id": "70FdRyn63jI",
+      "heading": "Mirror prank",
+      "creator": "",
+      "categories": ["Light"],
+      "topics": ["reflection", "mirrors", "virtual images"]
+    },
+    {
+      "id": "VvqbjUtt3mM",
+      "heading": "One-way mirrors",
+      "creator": "Minute Physics",
+      "categories": ["Light"],
+      "topics": ["reflection", "mirrors"]
+    },
+    {
+      "id": "jrje73EyKag",
+      "heading": "Solar scorcher",
+      "creator": "The King of Random",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": ["focal point", "radiation"]
+    },
+    {
+      "id": "uxPdPpi5W4o",
+      "heading": "96,000,000 floating balls",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["radiation", "conduction", "thermal energy"]
+    },
+    {
+      "id": "GRD-xvlhGMc",
+      "heading": "Sunscreen and UV light",
+      "creator": "Physics Girl",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": [
+        "electromagnetic waves",
+        "wavelength",
+        "temperature",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "xKxrkht7CpY",
+      "heading": "How do solar panels work?",
+      "creator": "TED Ed",
+      "categories": ["Light", "Electricity"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential",
+        "electromagnetic waves"
+      ]
+    },
+    {
+      "id": "V9K6gjR07Po",
+      "heading": "The world in UV",
+      "creator": "Veritasium",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": [
+        "electromagnetic waves",
+        "wavelength",
+        "temperature",
+        "thermal energy",
+        "radiation"
+      ]
+    },
+    {
+      "id": "CSu0cV3fqi8",
+      "heading": "Polarized light and colors",
+      "creator": "Physics Girl",
+      "categories": ["Light"],
+      "topics": ["polarization", "electromagnetic waves", "color", "wavelength"]
+    },
+    {
+      "id": "S9dqJRyk0YM",
+      "heading": "There is no pink light",
+      "creator": "Minute Physics",
+      "categories": ["Light"],
+      "topics": ["electromagnetic waves", "color", "wavelength"]
+    },
+    {
+      "id": "Z5x5BLzQKZI",
+      "heading": "Amazing strength of air",
+      "creator": "Brusspup",
+      "categories": ["Fluids"],
+      "topics": ["pressure", "atmospheric pressure"]
+    },
+    {
+      "id": "ZerUbHmuY04",
+      "heading": "Bird logic",
+      "creator": "",
+      "categories": ["Fluids"],
+      "topics": ["volume", "depth", "buoyancy"]
+    },
+    {
+      "id": "HQx5Be9g16U",
+      "heading": "10 amazing science tricks using liquid",
+      "creator": "Brusspup",
+      "categories": ["Fluids"],
+      "topics": [
+        "volume",
+        "density",
+        "pressure",
+        "depth",
+        "buoyancy",
+        "flow",
+        "laminar",
+        "Bernoulli's principle",
+        "atmospheric pressure",
+        "surface tension"
+      ]
+    },
+    {
+      "id": "nVT1c0tr8NE",
+      "heading": "The boat puzzle",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["volume", "depth", "buoyancy"]
+    },
+    {
+      "id": "UukRgqzk-KE",
+      "heading": "Why does ice float on water?",
+      "creator": "TED Ed",
+      "categories": ["Fluids"],
+      "topics": ["volume", "buoyancy", "density", "gravitational force"]
+    },
+    {
+      "id": "QD3hbVG1yxM",
+      "heading": "Beaker balance puzzle",
+      "creator": "Veritasium",
+      "categories": ["Forces", "Fluids"],
+      "topics": ["volume", "density", "buoyancy", "Newton's 3rd law"]
+    },
+    {
+      "id": "1PJTq2xQiQ0",
+      "heading": "Floating on gas",
+      "creator": "",
+      "categories": ["Forces", "Fluids"],
+      "topics": ["static equilibrium", "density", "buoyancy"]
+    },
+    {
+      "id": "Rm5D47nG9k4",
+      "heading": "Cannonball in mercury",
+      "creator": "",
+      "categories": ["Fluids"],
+      "topics": ["density", "buoyancy"]
+    },
+    {
+      "id": "y8mzDvpKzfY",
+      "heading": "Baffling balloon behavior",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids"],
+      "topics": [
+        "Newton's 1st law",
+        "Newton's 2nd law",
+        "reference frames",
+        "density",
+        "pressure",
+        "buoyancy",
+        "lift"
+      ]
+    },
+    {
+      "id": "hSorsJ-lRYk",
+      "heading": "Stacking liquids",
+      "creator": "Brusspup",
+      "categories": ["Fluids"],
+      "topics": ["density", "depth", "buoyancy"]
+    },
+    {
+      "id": "z0JpgEOLezY",
+      "heading": "Bowl riddle",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["density", "depth", "buoyancy"]
+    },
+    {
+      "id": "mNHp8iyyIjo",
+      "heading": "Hydrodynamic levitation",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": [
+        "pressure",
+        "flow",
+        "Bernoulli's principle",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "oxbuFwW5f-Q",
+      "heading": "Which tank will fill first?",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["depth", "pressure", "volume", "flow"]
+    },
+    {
+      "id": "NIf_dT-qUpQ",
+      "heading": "Fountain in a bottle",
+      "creator": "Bruce Yeany",
+      "categories": ["Fluids"],
+      "topics": ["pressure", "flow", "Bernoulli's principle"]
+    },
+    {
+      "id": "HUmZrtiXDik",
+      "heading": "Longest possible straw",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": [
+        "gases",
+        "pressure",
+        "atmospheric pressure",
+        "depth",
+        "Bernoulli's principle"
+      ]
+    },
+    {
+      "id": "EkDhlzA-lwI",
+      "heading": "History of the barometer",
+      "creator": "TED Ed",
+      "categories": ["Fluids"],
+      "topics": ["gases", "pressure", "atmospheric pressure", "depth"]
+    },
+    {
+      "id": "im7DzMr8Ygs",
+      "heading": "Space straw",
+      "creator": "Vsauce",
+      "categories": ["Fluids"],
+      "topics": [
+        "gases",
+        "pressure",
+        "atmospheric pressure",
+        "depth",
+        "Bernoulli's principle"
+      ]
+    },
+    {
+      "id": "rk-6wHimbUs",
+      "heading": "Ping pong ball vs. tennis ball",
+      "creator": "Physics Girl",
+      "categories": ["Momentum", "Fluids"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "pressure",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "JT0wx27J9xs",
+      "heading": "How hard can you hit a golf ball?",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Fluids"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "pressure",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "p1PgNbgWSyY",
+      "heading": "Flying in a fighter jet",
+      "creator": "Smarter Every Day",
+      "categories": ["Circular motion", "Fluids"],
+      "topics": [
+        "reference frames",
+        "centripetal",
+        "vertical circles",
+        "fictitious forces",
+        "pressure",
+        "atmospheric pressure",
+        "depth",
+        "Bernoulli's principle"
+      ]
+    },
+    {
+      "id": "7pOXunRYJIw",
+      "heading": "Suppressor in slow motion",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids", "Energy", "Momentum"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "thermal energy",
+        "kinetic energy",
+        "conservation",
+        "explosion",
+        "pressure"
+      ]
+    },
+    {
+      "id": "iQWtZd8jM3g",
+      "heading": "Fun with gas",
+      "creator": "Kevin Delaney",
+      "categories": ["Fluids", "Waves"],
+      "topics": [
+        "density",
+        "pressure",
+        "buoyancy",
+        "sound",
+        "frequency",
+        "speed"
+      ]
+    },
+    {
+      "id": "IAR4yTYslkk",
+      "heading": "Bullet suppressor slow motion",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids", "Waves"],
+      "topics": [
+        "pressure",
+        "gases",
+        "explosion",
+        "longitudinal",
+        "Doppler effect"
+      ]
+    },
+    {
+      "id": "C_covjcIcZ4",
+      "heading": "Buoyancy puzzle",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": ["volume", "density", "depth", "buoyancy"]
+    },
+    {
+      "id": "Z5x5BLzQKZI",
+      "heading": "Atmospheric pressure",
+      "creator": "Brusspup",
+      "categories": ["Fluids"],
+      "topics": ["pressure", "atmospheric pressure"]
+    },
+    {
+      "id": "6ai2QFxStxo",
+      "heading": "Tacoma Narrows Bridge fallacy",
+      "creator": "Minute Physics",
+      "categories": ["Waves", "Fluids"],
+      "topics": ["pressure", "flow", "resonance", "frequency"]
+    },
+    {
+      "id": "sWu9CyDwuFs",
+      "heading": "Non-Newtonian fluid on a speaker",
+      "creator": "Veritasium",
+      "categories": ["Waves", "Fluids"],
+      "topics": ["flow", "resonance", "frequency"]
+    },
+    {
+      "id": "odl6NK0FDnY",
+      "heading": "Strange sand",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["flow", "density"]
+    },
+    {
+      "id": "RkLn2gR7SyE",
+      "heading": "Non-Newtonian fluid is slow motion",
+      "creator": "Veritasium",
+      "categories": ["Waves", "Fluids"],
+      "topics": ["flow", "resonance", "frequency"]
+    },
+    {
+      "id": "23f1jvGUWJs",
+      "heading": "The Magnus effect",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": [
+        "Bernoulli's principle",
+        "atmospheric pressure",
+        "Magnus effect"
+      ]
+    },
+    {
+      "id": "2OSrvzNW9FE",
+      "heading": "Basketball off of a dam",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": [
+        "Bernoulli's principle",
+        "atmospheric pressure",
+        "Magnus effect"
+      ]
+    },
+    {
+      "id": "05zF0sBwHe8",
+      "heading": "Cup flyers",
+      "creator": "Bruce Yeany",
+      "categories": ["Fluids"],
+      "topics": [
+        "Magnus effect",
+        "Bernoulli's principle",
+        "atmospheric pressure",
+        "flow"
+      ]
+    },
+    {
+      "id": "g224A2cMORI",
+      "heading": "Watermelon vs. potato gun",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Energy", "Fluids"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "kinetic energy",
+        "thermal energy",
+        "volume",
+        "pressure"
+      ]
+    },
+    {
+      "id": "QtP_bh2lMXc",
+      "heading": "Spinning basketball drop",
+      "creator": "How Ridiculous",
+      "categories": ["Fluids"],
+      "topics": [
+        "Bernoulli's principle",
+        "atmospheric pressure",
+        "Magnus effect"
+      ]
+    },
+    {
+      "id": "pnbJEg9r1o8",
+      "heading": "Crazy pool vortex",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["flow", "drag", "Bernoulli's principle"]
+    },
+    {
+      "id": "EVbdbVhzcM4",
+      "heading": "Colliding vortex rings",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids", "Momentum"],
+      "topics": [
+        "flow",
+        "drag",
+        "Bernoulli's principle",
+        "collisions",
+        "inelastic collisions"
+      ]
+    },
+    {
+      "id": "_18avidXxqY",
+      "heading": "Vortex rings",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["flow", "drag", "Bernoulli's principle"]
+    },
+    {
+      "id": "aFO4PBolwFg",
+      "heading": "How does a wing actually work?",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": [
+        "pressure",
+        "flow",
+        "lift",
+        "drag",
+        "Bernoulli's principle",
+        "Newton's 3rd law",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "Gg0TXNXgz-w",
+      "heading": "How do airplanes fly?",
+      "creator": "Minute Physics",
+      "categories": ["Fluids"],
+      "topics": [
+        "pressure",
+        "flow",
+        "lift",
+        "drag",
+        "Bernoulli's principle",
+        "Newton's 3rd law",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "d2mITQ53kr8",
+      "heading": "Flying a helicopter upside down",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids"],
+      "topics": [
+        "pressure",
+        "flow",
+        "lift",
+        "drag",
+        "Bernoulli's principle",
+        "Newton's 3rd law",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "ynk4vJa-VaQ",
+      "heading": "Surface tension droplets",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Fluids", "Waves", "Vibration"],
+      "topics": [
+        "surface tension",
+        "liquids",
+        "transverse",
+        "water",
+        "simple harmonic motion",
+        "frequency",
+        "wavelength"
+      ]
+    },
+    {
+      "id": "o8TssbmY-GM",
+      "heading": "Water in the space station",
+      "creator": "ISS astronauts",
+      "categories": ["Fluids"],
+      "topics": ["surface tension"]
+    },
+    {
+      "id": "WsksFbFZeeU",
+      "heading": "Tricks with surface tension",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["surface tension"]
+    },
+    {
+      "id": "y7Hyc3MRKno",
+      "heading": "Why laminar flow is awesome",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids"],
+      "topics": ["pressure", "laminar", "flow", "Bernoulli's principle"]
+    },
+    {
+      "id": "5Q_6--XsIgA",
+      "heading": "Wine flow",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["surface tension", "flow"]
+    },
+    {
+      "id": "5zI9sG3pjVU",
+      "heading": "Turbulent vs. laminar flow",
+      "creator": "Veritasium",
+      "categories": ["Fluids"],
+      "topics": ["pressure", "laminar", "flow", "Bernoulli's principle"]
+    },
+    {
+      "id": "w5UMyck8D64",
+      "heading": "Antibubbles",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["buoyancy", "surface tension"]
+    },
+    {
+      "id": "QrgTtZXuj4w",
+      "heading": "Giant vortex cannon",
+      "creator": "",
+      "categories": ["Fluids"],
+      "topics": ["atmospheric pressure", "flow"]
+    },
+    {
+      "id": "K-Fc08X56R0",
+      "heading": "3 perplexing physics problems",
+      "creator": "Veritasium",
+      "categories": ["Fluids", "Thermodynamics"],
+      "topics": ["pressure", "temperature", "thermal energy", "Brownian motion"]
+    },
+    {
+      "id": "gM3zP72-rJE",
+      "heading": "Does pressure melt ice?",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["pressure", "temperature", "solids", "liquids"]
+    },
+    {
+      "id": "N7d_RWyOv20",
+      "heading": "Square vortex rings",
+      "creator": "Physics Girl",
+      "categories": ["Fluids"],
+      "topics": ["flow", "drag", "Bernoulli's principle"]
+    },
+    {
+      "id": "4qe1Ueifekg",
+      "heading": "Fire syringe",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": [
+        "pressure",
+        "volume",
+        "temperature",
+        "gases",
+        "thermal energy",
+        "work",
+        "1st law of thermodynamics"
+      ]
+    },
+    {
+      "id": "KRcajZHc6Yk",
+      "heading": "Air bag inflating",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Thermodynamics"],
+      "topics": [
+        "pressure",
+        "volume",
+        "gases",
+        "work",
+        "1st law of thermodynamics"
+      ]
+    },
+    {
+      "id": "VEQaH4LruUo",
+      "heading": "What is a calorie?",
+      "creator": "TED Ed",
+      "categories": ["Thermodynamics", "Energy"],
+      "topics": [
+        "pressure",
+        "volume",
+        "temperature",
+        "gases",
+        "thermal energy",
+        "work",
+        "1st law of thermodynamics"
+      ]
+    },
+    {
+      "id": "xflY5uS-nnw",
+      "heading": "See-through engine",
+      "creator": "Smarter Every Day",
+      "categories": ["Thermodynamics", "Energy"],
+      "topics": [
+        "pressure",
+        "volume",
+        "temperature",
+        "gases",
+        "thermal energy",
+        "work",
+        "engines",
+        "entropy",
+        "1st law of thermodynamics",
+        "2nd law of thermodynamics",
+        "power"
+      ]
+    },
+    {
+      "id": "VQqpnAKf9cM",
+      "heading": "Solar motor",
+      "creator": "Bruce Yeany",
+      "categories": ["Rotation", "Thermodynamics"],
+      "topics": [
+        "rotational kinetic energy",
+        "thermal energy",
+        "radiation",
+        "convection"
+      ]
+    },
+    {
+      "id": "xe-f4gokRBs",
+      "heading": "Mystery of Prince Rupert's drop",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Thermodynamics", "Waves"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "thermal expansion",
+        "solids",
+        "speed"
+      ]
+    },
+    {
+      "id": "24q80ReMyq0",
+      "heading": "Bullet vs. Prince Rupert's drop",
+      "creator": "Smarter Every Day",
+      "categories": ["Momentum", "Thermodynamics", "Waves"],
+      "topics": [
+        "collisions",
+        "inelastic collisions",
+        "thermal expansion",
+        "solids",
+        "speed"
+      ]
+    },
+    {
+      "id": "0i5rycLJ3D8",
+      "heading": "How to escape from a car window",
+      "creator": "Smarter Every Day",
+      "categories": ["Energy", "Thermodynamics", "Waves"],
+      "topics": ["internal energy", "thermal energy", "solids", "speed"]
+    },
+    {
+      "id": "jvuBe6b2iVk",
+      "heading": "F1 thermal camera",
+      "creator": "FLIR",
+      "categories": ["Thermodynamics", "Light"],
+      "topics": [
+        "temperature",
+        "radiation",
+        "electromagnetic waves",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "4fuHzC9aTik",
+      "heading": "How hot can it get?",
+      "creator": "Vsauce",
+      "categories": ["Thermodynamics"],
+      "topics": [
+        "temperature",
+        "absolute zero",
+        "thermal energy",
+        "1st law of thermodynamics"
+      ]
+    },
+    {
+      "id": "W6aL9YyRx1A",
+      "heading": "What is the coldest thing in the world?",
+      "creator": "TED Ed",
+      "categories": ["Thermodynamics", "Modern physics"],
+      "topics": [
+        "temperature",
+        "absolute zero",
+        "thermal energy",
+        "1st law of thermodynamics",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "OWXoRSIxyIU",
+      "heading": "Global warming",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": [
+        "temperature",
+        "thermal energy",
+        "1st law of thermodynamics",
+        "radiation"
+      ]
+    },
+    {
+      "id": "k0tnqPmwWvk",
+      "heading": "Volcanic activity in Hawaii",
+      "creator": "Physics Girl",
+      "categories": ["Thermodynamics"],
+      "topics": ["liquids", "convection"]
+    },
+    {
+      "id": "YM-uykVfq_E",
+      "heading": "What is entropy?",
+      "creator": "TED Ed",
+      "categories": ["Thermodynamics"],
+      "topics": ["entropy", "2nd law of thermodynamics", "thermal energy"]
+    },
+    {
+      "id": "GdTMuivYF30",
+      "heading": "The arrow of time",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics"],
+      "topics": ["entropy", "2nd law of thermodynamics"]
+    },
+    {
+      "id": "ijFm6DxNVyI",
+      "heading": "The end of the universe",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Thermodynamics", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "cosmology",
+        "thermal energy",
+        "radiation",
+        "photons",
+        "2nd law of thermodynamics",
+        "black holes",
+        "general relativity",
+        "entropy"
+      ]
+    },
+    {
+      "id": "4_aOIA-vyBo",
+      "heading": "Three ways to destroy the universe",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Thermodynamics", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "cosmology",
+        "thermal energy",
+        "radiation",
+        "photons",
+        "2nd law of thermodynamics",
+        "black holes",
+        "general relativity",
+        "entropy"
+      ]
+    },
+    {
+      "id": "z0M7_HPSi14",
+      "heading": "How do fish make electricity?",
+      "creator": "TED Ed",
+      "categories": ["Electricity"],
+      "topics": [
+        "electric charge",
+        "polarization",
+        "electric potential energy",
+        "electric potential",
+        "voltage",
+        "electric current"
+      ]
+    },
+    {
+      "id": "a7_8Gc_Llr8",
+      "heading": "What's in a candle flame?",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics", "Electricity"],
+      "topics": [
+        "gases",
+        "convection",
+        "thermal energy",
+        "electric charge",
+        "polarization"
+      ]
+    },
+    {
+      "id": "WainnKKtGZI",
+      "heading": "Weird ways to put out a candle",
+      "creator": "Physics Girl",
+      "categories": ["Thermodynamics"],
+      "topics": ["gases", "convection"]
+    },
+    {
+      "id": "1pfqIcSydgE",
+      "heading": "What is fire?",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics", "Modern physics"],
+      "topics": [
+        "gases",
+        "convection",
+        "thermal energy",
+        "spectra",
+        "blackbody radiation"
+      ]
+    },
+    {
+      "id": "KCL8zqjXbME",
+      "heading": "States of matter",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["gases", "liquids", "solids"]
+    },
+    {
+      "id": "YV8TT9LRBrY",
+      "heading": "Is fire a solid, liquid, or gas?",
+      "creator": "TED Ed",
+      "categories": ["Thermodynamics", "Fluids"],
+      "topics": [
+        "gases",
+        "liquids",
+        "solids",
+        "temperature",
+        "convection",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "kjraelDMrFQ",
+      "heading": "Why do compressed air cans get cold?",
+      "creator": "Minute Physics",
+      "categories": ["Fluids", "Thermodynamics"],
+      "topics": [
+        "pressure",
+        "volume",
+        "gases",
+        "liquids",
+        "evaporation",
+        "thermal energy",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "Aan-kc-9E3A",
+      "heading": "Underwater explosions",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids", "Thermodynamics"],
+      "topics": [
+        "pressure",
+        "volume",
+        "gases",
+        "liquids",
+        "thermal energy",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "id": "yXT012us9ng",
+      "heading": "Can we feel temperature?",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics"],
+      "topics": ["temperature", "absolute zero", "solids", "conduction"]
+    },
+    {
+      "id": "AeJ9q45PfD0",
+      "heading": "World's lightest solid",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["temperature", "density", "solids", "conduction"]
+    },
+    {
+      "id": "cp5gdUHFGIQ",
+      "heading": "AK-47 underwater",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids", "Thermodynamics"],
+      "topics": ["pressure", "gases", "liquids", "thermal energy"]
+    },
+    {
+      "id": "OubvTOHWTms",
+      "heading": "Underwater bullets",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Fluids", "Thermodynamics"],
+      "topics": ["pressure", "gases", "liquids", "thermal energy"]
+    },
+    {
+      "id": "vqDbMEdLiCs",
+      "heading": "Trouble with temperature",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["temperature", "absolute zero", "solids", "conduction"]
+    },
+    {
+      "id": "68A_Azsqqg4",
+      "heading": "How to make a cloud",
+      "creator": "Physics Girl",
+      "categories": ["Thermodynamics"],
+      "topics": [
+        "pressure",
+        "volume",
+        "temperature",
+        "gases",
+        "1st law of thermodynamics"
+      ]
+    },
+    {
+      "id": "_TNSUIsjdpY",
+      "heading": "Bottling an explosion",
+      "creator": "Smarter Every Day",
+      "categories": ["Energy", "Fluids", "Thermodynamics"],
+      "topics": [
+        "thermal energy",
+        "volume",
+        "pressure",
+        "1st law of thermodynamics"
+      ]
+    },
+    {
+      "id": "LgrXd0NM2y8",
+      "heading": "Fahrenheit",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["temperature"]
+    },
+    {
+      "id": "rjht4oAByCI",
+      "heading": "Celsius",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["temperature"]
+    },
+    {
+      "id": "Xy2qVIhTtG8",
+      "heading": "Temperature scales explained",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics"],
+      "topics": ["temperature"]
+    },
+    {
+      "id": "QwoghxwETng",
+      "heading": "Fire tornado",
+      "creator": "The Slow Mo Guys",
+      "categories": ["Thermodynamics", "Fluids"],
+      "topics": [
+        "pressure",
+        "temperature",
+        "gases",
+        "convection",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "4tgOyU34D44",
+      "heading": "Slow motion Schlieren imaging",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics", "Light"],
+      "topics": [
+        "pressure",
+        "temperature",
+        "gases",
+        "flow",
+        "convection",
+        "refraction",
+        "polarization"
+      ]
+    },
+    {
+      "id": "NmS6h_fkPgk",
+      "heading": "The Schlieren effect",
+      "creator": "Brusspup",
+      "categories": ["Thermodynamics", "Light"],
+      "topics": [
+        "pressure",
+        "temperature",
+        "gases",
+        "flow",
+        "convection",
+        "polarization"
+      ]
+    },
+    {
+      "id": "K7pQsR8WFSo",
+      "heading": "Schlieren imaging in color",
+      "creator": "Veritasium",
+      "categories": ["Thermodynamics"],
+      "topics": ["pressure", "temperature", "gases", "convection"]
+    },
+    {
+      "id": "yQP4UJhNn0I",
+      "heading": "How big is an atom?",
+      "creator": "TED Ed",
+      "categories": ["Modern physics"],
+      "topics": ["atomic physics", "nuclear physics"]
+    },
+    {
+      "id": "5NU2t5zlxQQ",
+      "heading": "How big is the universe?",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Waves", "Light"],
+      "topics": ["cosmology", "speed", "electromagnetic waves"]
+    },
+    {
+      "id": "FXfrncRey-4",
+      "heading": "The ultraviolet catastrophe",
+      "creator": "Physics Girl",
+      "categories": ["Modern physics", "Light"],
+      "topics": [
+        "blackbody radiation",
+        "photons",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "IOYyCHGWJq4",
+      "heading": "What is Schrödinger's cat?",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality", "nuclear decay"]
+    },
+    {
+      "id": "45KGS1Ro-sc",
+      "heading": "Origins of quantum theory",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": [
+        "atomic physics",
+        "spectra",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "_lNF3_30lUE",
+      "heading": "How small is an atom?",
+      "creator": "Kurzgesagt",
+      "categories": ["Modern physics"],
+      "topics": ["atomic physics", "nuclear physics", "mass-energy equivalence"]
+    },
+    {
+      "id": "Q_h4IoPJXZw",
+      "heading": "Wave-particle duality part 1",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "_riIY-v2Ym8",
+      "heading": "Wave-particle duality part 2",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "d1tn56vWU_g",
+      "heading": "Schrödinger's cat",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": [
+        "quantum mechanics",
+        "wave-particle duality",
+        "nuclear physics"
+      ]
+    },
+    {
+      "id": "dmX1W5umC1c",
+      "heading": "Can we predict everything?",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "UjaAxUO6-Uw",
+      "heading": "Schrödinger's cat",
+      "creator": "TED Ed",
+      "categories": ["Modern physics"],
+      "topics": [
+        "quantum mechanics",
+        "wave-particle duality",
+        "nuclear physics"
+      ]
+    },
+    {
+      "id": "WO38qVDGgqw",
+      "heading": "Photoelectric effect demo",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": ["photoelectric effect", "photons"]
+    },
+    {
+      "id": "cztocbHiiqQ",
+      "heading": "Hypersensitive frog vision",
+      "creator": "Veritasium",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "wavelength",
+        "electromagnetic waves",
+        "photons",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "hSgIDgGpRpk",
+      "heading": "Einstein: Why is light quantum?",
+      "creator": "Minute Physics",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "wavelength",
+        "electromagnetic waves",
+        "photons",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "GzbKb59my3U",
+      "heading": "Single photon interference",
+      "creator": "Veritasium",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "photons",
+        "wavelength",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "lR4tJr7sMPM",
+      "heading": "How to break the speed of light",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics", "Light"],
+      "topics": [
+        "photons",
+        "special relativity",
+        "wave-particle duality",
+        "speed"
+      ]
+    },
+    {
+      "id": "ACUuFg9Y9dY",
+      "heading": "Would headlights work at light speed?",
+      "creator": "Vsauce",
+      "categories": ["Modern physics", "Light", "Gravitation"],
+      "topics": [
+        "photons",
+        "wavelength",
+        "special relativity",
+        "time dilation",
+        "speed",
+        "cosmology"
+      ]
+    },
+    {
+      "id": "bKldI-XGHIw",
+      "heading": "Can we touch anything?",
+      "creator": "Veritasium",
+      "categories": ["Modern physics", "Electricity"],
+      "topics": ["photons", "quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "i1TVZIBj7UA",
+      "heading": "The origin of quantum mechanics",
+      "creator": "Minute Physics",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "photons",
+        "atomic physics",
+        "spectra",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "yE8rkG9Dw4s",
+      "heading": "What is touch?",
+      "creator": "Vsauce",
+      "categories": ["Modern physics", "Electricity"],
+      "topics": ["photons", "quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "2S6e11NBwiw",
+      "heading": "Conservation of mass",
+      "creator": "TED Ed",
+      "categories": ["Modern physics", "Forces", "Fluids"],
+      "topics": [
+        "nuclear physics",
+        "mass-energy equivalence",
+        "conservation",
+        "mass",
+        "gases",
+        "liquids",
+        "solids"
+      ]
+    },
+    {
+      "id": "yKbJ9leUNDE",
+      "heading": "Why doesn't time flow backwards?",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics"],
+      "topics": ["entropy", "2nd law of thermodynamics"]
+    },
+    {
+      "id": "3AMCcYnAsdQ",
+      "heading": "Do cause and effect really exist?",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics"],
+      "topics": ["entropy", "2nd law of thermodynamics"]
+    },
+    {
+      "id": "e-P5IFTqB98",
+      "heading": "Black holes - from birth to death",
+      "creator": "Kurzgesagt",
+      "categories": ["Thermodynamics", "Gravitation"],
+      "topics": [
+        "entropy",
+        "2nd law of thermodynamics",
+        "black holes",
+        "general relativity",
+        "cosmology",
+        "gravitational field"
+      ]
+    },
+    {
+      "id": "yWO-cvGETRQ",
+      "heading": "The information paradox",
+      "creator": "Kurzgesagt",
+      "categories": ["Thermodynamics", "Gravitation"],
+      "topics": [
+        "entropy",
+        "2nd law of thermodynamics",
+        "black holes",
+        "general relativity",
+        "cosmology"
+      ]
+    },
+    {
+      "id": "MTFY0H4EZx4",
+      "heading": "Where does complexity come from?",
+      "creator": "Minute Physics",
+      "categories": ["Thermodynamics"],
+      "topics": ["entropy", "2nd law of thermodynamics"]
+    },
+    {
+      "id": "R3tbVHlsKhs",
+      "heading": "Does time exist?",
+      "creator": "TED Ed",
+      "categories": ["Modern physics", "Thermodynamics"],
+      "topics": [
+        "special relativity",
+        "time dilation",
+        "entropy",
+        "2nd law of thermodynamics"
+      ]
+    },
+    {
+      "id": "VS46DZe5usY",
+      "heading": "Relativity isn't relative",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation", "length contraction"]
+    },
+    {
+      "id": "vVKFBaaL4uM",
+      "heading": "Can you go the speed of light?",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation"]
+    },
+    {
+      "id": "s5S-hA9uKEM",
+      "heading": "Distance and special relativity",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation", "length contraction"]
+    },
+    {
+      "id": "4B_x1XjBhiI",
+      "heading": "Relativistic momentum",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics", "Momentum"],
+      "topics": ["special relativity", "conservation"]
+    },
+    {
+      "id": "C2VMO7pcWhg",
+      "heading": "Visualizing relativity",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation", "length contraction"]
+    },
+    {
+      "id": "sgIqRwvaBw4",
+      "heading": "How we know black holes exist",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "Kepler's laws",
+        "black holes"
+      ]
+    },
+    {
+      "id": "fu3645D4ZlI",
+      "heading": "Spinning black holes",
+      "creator": "Veritasium",
+      "categories": ["Gravitation", "Waves"],
+      "topics": [
+        "general relativity",
+        "black holes",
+        "electromagnetic waves",
+        "wavelength"
+      ]
+    },
+    {
+      "id": "3pAnRKD4raY",
+      "heading": "Inside a black hole",
+      "creator": "Vsauce",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": ["special relativity", "general relativity", "black holes"]
+    },
+    {
+      "id": "D89ngRr4uZg",
+      "heading": "The three-body problem",
+      "creator": "TED Ed",
+      "categories": ["Gravitation"],
+      "topics": ["universal gravitation", "orbit"]
+    },
+    {
+      "id": "SdySHadrYAA",
+      "heading": "What is a black hole?",
+      "creator": "Physics Girl",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": ["special relativity", "general relativity", "black holes"]
+    },
+    {
+      "id": "IJhgZBn-LHg",
+      "heading": "How Earth moves",
+      "creator": "Vsauce",
+      "categories": ["Gravitation"],
+      "topics": ["universal gravitation", "orbit", "Kepler's laws"]
+    },
+    {
+      "id": "OTMELHUAzSM",
+      "heading": "Our ignorance about gravity",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "black holes",
+        "cosmology",
+        "general relativity"
+      ]
+    },
+    {
+      "id": "w6JFRi0Qm_s",
+      "heading": "The genius of Marie Curie",
+      "creator": "TED Ed",
+      "categories": ["Modern physics"],
+      "topics": [
+        "nuclear physics",
+        "mass-energy equivalence",
+        "photons",
+        "radiation",
+        "conservation"
+      ]
+    },
+    {
+      "id": "R7WPEYGr1Vs",
+      "heading": "How do nuclear power plants work?",
+      "creator": "TED Ed",
+      "categories": ["Thermodynamics", "Energy", "Modern physics"],
+      "topics": [
+        "gases",
+        "liquids",
+        "fission",
+        "thermal energy",
+        "mass-energy equivalence",
+        "electric potential energy"
+      ]
+    },
+    {
+      "id": "9tbxDgcv74c",
+      "heading": "Nuclear bomb in the ocean",
+      "creator": "Kurzgesagt",
+      "categories": ["Thermodynamics", "Fluids", "Modern physics"],
+      "topics": [
+        "gases",
+        "liquids",
+        "explosions",
+        "fission",
+        "thermal energy",
+        "mass-energy equivalence"
+      ]
+    },
+    {
+      "id": "Bz9D6xba9Og",
+      "heading": "How far away is the moon?",
+      "creator": "Veritasium",
+      "categories": ["Gravitation"],
+      "topics": ["orbit", "cosmology"]
+    },
+    {
+      "id": "S_GVbuddri8",
+      "heading": "First image of a black hole",
+      "creator": "Veritasium",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": ["special relativity", "general relativity", "black holes"]
+    },
+    {
+      "id": "zUyH3XhpLTo",
+      "heading": "How to understand the first black hole image",
+      "creator": "Veritasium",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": ["black holes", "orbit", "electromagnetic waves", "photons"]
+    },
+    {
+      "id": "MTUsOWtxKKA",
+      "heading": "Why is the universe flat?",
+      "creator": "Physics Girl",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": ["universal gravitation", "general relativity", "cosmology"]
+    },
+    {
+      "id": "hW7DW9NIO9M",
+      "heading": "Einstein's proof of E=mc²",
+      "creator": "Minute Physics",
+      "categories": ["Energy", "Waves", "Modern physics"],
+      "topics": [
+        "kinetic energy",
+        "conservation",
+        "equations",
+        "wavelength",
+        "Doppler effect",
+        "special relativity",
+        "mass-energy equivalence"
+      ]
+    },
+    {
+      "id": "NnMIhxWRGNw",
+      "heading": "E=mc² is incomplete",
+      "creator": "Minute Physics",
+      "categories": ["Energy", "Waves", "Modern physics"],
+      "topics": [
+        "kinetic energy",
+        "conservation",
+        "equations",
+        "wavelength",
+        "Doppler effect",
+        "special relativity",
+        "mass-energy equivalence"
+      ]
+    },
+    {
+      "id": "ERgwVm9qWKA",
+      "heading": "Relativity and the twin paradox",
+      "creator": "Physics Girl",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation"]
+    },
+    {
+      "id": "oOL2d-5-pJ8",
+      "heading": "Twin paradox",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation"]
+    },
+    {
+      "id": "h8GqaAp3cGs",
+      "heading": "The twin paradox explained",
+      "creator": "TED Ed",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation"]
+    },
+    {
+      "id": "ajhFNcUTJI0",
+      "heading": "Relativity and Einstein",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation", "length contraction"]
+    },
+    {
+      "id": "30KfPtHec4s",
+      "heading": "First look at relativity",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity"]
+    },
+    {
+      "id": "EPsG8td7C5k",
+      "heading": "Will this go faster than light?",
+      "creator": "Veritasium",
+      "categories": ["Modern physics", "Light"],
+      "topics": ["special relativity", "photons", "lasers"]
+    },
+    {
+      "id": "gxJ4M7tyLRE",
+      "heading": "Why is it dark at night?",
+      "creator": "Minute Physics",
+      "categories": ["Light", "Gravitation"],
+      "topics": [
+        "electromagnetic waves",
+        "photons",
+        "universal gravitation",
+        "cosmology",
+        "general relativity"
+      ]
+    },
+    {
+      "id": "G-R8LGy-OVs",
+      "heading": "First look at time dilation",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "time dilation"]
+    },
+    {
+      "id": "xvZfx7iwq94",
+      "heading": "First look at length contraction",
+      "creator": "",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "length contraction"]
+    },
+    {
+      "id": "XBr4GkRnY04",
+      "heading": "Misconceptions about the universe",
+      "creator": "Veritasium",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "general relativity",
+        "cosmology",
+        "special relativity",
+        "photons"
+      ]
+    },
+    {
+      "id": "n2s1-RHuljo",
+      "heading": "Neil deGrasse Tyson explains relativity",
+      "creator": "Neil deGrasse Tyson",
+      "categories": ["Modern physics"],
+      "topics": ["special relativity", "length contraction"]
+    },
+    {
+      "id": "9DWnjcSo9J0",
+      "heading": "Chernobyl in 2015",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["nuclear physics", "nuclear decay"]
+    },
+    {
+      "id": "TRL7o2kPqw0",
+      "heading": "The most radioactive places on Earth",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["nuclear physics", "nuclear decay"]
+    },
+    {
+      "id": "mZsaaturR6E",
+      "heading": "Fusion power explained",
+      "creator": "Kurzgesagt",
+      "categories": ["Modern physics", "Energy"],
+      "topics": [
+        "nuclear physics",
+        "mass-energy equivalence",
+        "fusion",
+        "power"
+      ]
+    },
+    {
+      "id": "Ux33-5k8cjg",
+      "heading": "Where does the sun get its energy?",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": [
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons"
+      ]
+    },
+    {
+      "id": "p_8yK2kmxoo",
+      "heading": "Strange stars explained",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons"
+      ]
+    },
+    {
+      "id": "fFeV8WxIZLk",
+      "heading": "The life cycle of a neutron star",
+      "creator": "TED Ed",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons"
+      ]
+    },
+    {
+      "id": "udFxKZRyQt4",
+      "heading": "Neutron stars",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons"
+      ]
+    },
+    {
+      "id": "Lo8NmoDL9T8",
+      "heading": "Animatter explained",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": [
+        "nuclear physics",
+        "mass-energy equivalence",
+        "antimatter",
+        "fission"
+      ]
+    },
+    {
+      "id": "PCuyCJocJWg",
+      "heading": "Why is antimatter so expensive?",
+      "creator": "Physics Girl",
+      "categories": ["Modern physics"],
+      "topics": ["nuclear physics", "mass-energy equivalence", "antimatter"]
+    },
+    {
+      "id": "RLykC1VN7NY",
+      "heading": "Gamma ray bursts",
+      "creator": "TED Ed",
+      "categories": ["Gravitation", "Modern physics", "Light"],
+      "topics": [
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons",
+        "electromagnetic waves",
+        "wavelength"
+      ]
+    },
+    {
+      "id": "HD3k1hgbUXQ",
+      "heading": "Einstein and nuclear weapons",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["nuclear physics", "fission", "mass-energy equivalence"]
+    },
+    {
+      "id": "Ztc6QPNUqls",
+      "heading": "Where does your mass come from?",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["nuclear physics", "mass-energy equivalence"]
+    },
+    {
+      "id": "Va5T2KcYiOw",
+      "heading": "The man who corrected Einstein",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "6PiyUjVxukI",
+      "heading": "What is the universe expanding into?",
+      "creator": "TED Ed",
+      "categories": ["Gravitation"],
+      "topics": ["cosmology", "general relativity"]
+    },
+    {
+      "id": "NVKO7UCIlgs",
+      "heading": "Gravitational wave discovery",
+      "creator": "Veritasium",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "DjcS1kRkc6M",
+      "heading": "Gravitational wave detection",
+      "creator": "Physics Girl",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "aVFf8UcX1A8",
+      "heading": "Gravitational wave model",
+      "creator": "Animations for Physics",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "YHS9g72npqA",
+      "heading": "Gravitational waves explained with stick figures",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "hebGhsNsjG0",
+      "heading": "What are gravitational waves?",
+      "creator": "TED Ed",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "qsN1LglrX9s",
+      "heading": "White dwarfs and black dwarfs",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons"
+      ]
+    },
+    {
+      "id": "iVpXrbZ4bnU",
+      "heading": "Quantum mechanics animations",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Light", "Modern physics"],
+      "topics": [
+        "photons",
+        "atomic physics",
+        "quantum mechanics",
+        "wave-particle duality"
+      ]
+    },
+    {
+      "id": "iphcyNWFD10",
+      "heading": "Detecting gravitational waves",
+      "creator": "Veritasium",
+      "categories": ["Gravitation"],
+      "topics": ["general relativity", "cosmology", "gravitational waves"]
+    },
+    {
+      "id": "VwRLIt6jgdM",
+      "heading": "Why is glass transparent?",
+      "creator": "TED Ed",
+      "categories": ["Light", "Modern physics"],
+      "topics": ["photons", "atomic physics", "quantum mechanics"]
+    },
+    {
+      "id": "hFkiMWrA2Bc",
+      "heading": "Laser cooling",
+      "creator": "Physics Girl",
+      "categories": ["Light", "Thermodynamics"],
+      "topics": ["lasers", "evaporation", "thermal energy"]
+    },
+    {
+      "id": "JhHMJCUmq28",
+      "heading": "Quantum computers explained?",
+      "creator": "Kurzgesagt",
+      "categories": ["Modern physics", "Thermodynamics"],
+      "topics": [
+        "quantum mechanics",
+        "wave-particle duality",
+        "temperature",
+        "circuits"
+      ]
+    },
+    {
+      "id": "g_IaVepNDT4",
+      "heading": "How does a quantum computer work?",
+      "creator": "Veritasium",
+      "categories": ["Modern physics", "Thermodynamics"],
+      "topics": [
+        "quantum mechanics",
+        "wave-particle duality",
+        "temperature",
+        "circuits"
+      ]
+    },
+    {
+      "id": "pP44EPBMb8A",
+      "heading": "How to build a Dyson sphere",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics", "Light"],
+      "topics": [
+        "reflection",
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "black holes",
+        "interference",
+        "photons"
+      ]
+    },
+    {
+      "id": "ulCdoCfw-bY",
+      "heading": "The black hole bomb",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics", "Light"],
+      "topics": [
+        "reflection",
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "black holes",
+        "interference",
+        "photons"
+      ]
+    },
+    {
+      "id": "zNzzGgr2mhk",
+      "heading": "How to make a quantum bit",
+      "creator": "Veritasium",
+      "categories": ["Modern physics", "Electricity"],
+      "topics": ["quantum mechanics", "wave-particle duality", "circuits"]
+    },
+    {
+      "id": "LS-VPyLaJFM",
+      "heading": "Red dwarfs explained",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "cosmology",
+        "nuclear physics",
+        "fusion",
+        "mass-energy equivalence",
+        "photons"
+      ]
+    },
+    {
+      "id": "kTXTPe3wahc",
+      "heading": "Parallel worlds",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality", "nuclear decay"]
+    },
+    {
+      "id": "Ywn2Lz5zmYg",
+      "heading": "Parallel worlds",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics", "Gravitation"],
+      "topics": ["cosmology", "quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "LraNu_78sCw",
+      "heading": "Quarks explained in four minutes",
+      "creator": "Physics Girl",
+      "categories": ["Electricity", "Modern physics"],
+      "topics": ["electric charge", "nuclear physics"]
+    },
+    {
+      "id": "t-O-Qdh7VvQ",
+      "heading": "The efficiency of black holes",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Energy", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "black holes",
+        "conservation",
+        "mass-energy equivalence",
+        "general relativity"
+      ]
+    },
+    {
+      "id": "8nHBGFKLHZQ",
+      "heading": "What is there was a black hole in your pocket?",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Energy", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "black holes",
+        "conservation",
+        "mass-energy equivalence",
+        "general relativity"
+      ]
+    },
+    {
+      "id": "WIyTZDHuarQ",
+      "heading": "Quantum mechanics analogy",
+      "creator": "Veritasium",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality"]
+    },
+    {
+      "id": "IM630Z8lho8",
+      "heading": "Common physics misconceptions",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "general relativity",
+        "special relativity"
+      ]
+    },
+    {
+      "id": "96LawfHPh6s",
+      "heading": "250,000 dominoes",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Rotation", "Momentum"],
+      "topics": [
+        "friction",
+        "gravitational force",
+        "center of mass",
+        "moment of inertia",
+        "collisions"
+      ]
+    },
+    {
+      "id": "9hPIobthvHg",
+      "heading": "Domino analysis",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Rotation", "Energy", "Waves"],
+      "topics": [
+        "friction",
+        "gravitational force",
+        "center of mass",
+        "gravitational potential energy",
+        "moment of inertia",
+        "collisions",
+        "speed"
+      ]
+    },
+    {
+      "id": "J0ldO87Pprc",
+      "heading": "What happens if we bring the Sun to Earth?",
+      "creator": "Kurzgesagt",
+      "categories": ["Modern physics"],
+      "topics": [
+        "nuclear physics",
+        "mass-energy equivalence",
+        "fusion",
+        "fission"
+      ]
+    },
+    {
+      "id": "IlnZKSR73S0",
+      "heading": "How to destroy a magnet",
+      "creator": "Minute Physics",
+      "categories": ["Magnetism", "Thermodynamics"],
+      "topics": ["magnets", "magnetic field", "temperature", "thermal energy"]
+    },
+    {
+      "id": "oHHSSJDJ4oo",
+      "heading": "Solar flares & coronal mass ejections",
+      "creator": "Kurzgesagt",
+      "categories": ["Modern physics", "Magnetism"],
+      "topics": [
+        "nuclear physics",
+        "mass-energy equivalence",
+        "fusion",
+        "magnetic field",
+        "aurora"
+      ]
+    },
+    {
+      "id": "xdJwG_9kF8s",
+      "heading": "Fire in zero-g",
+      "creator": "Veritasium",
+      "categories": ["Kinematics", "Thermodynamics"],
+      "topics": ["freefall", "gases", "convection"]
+    },
+    {
+      "id": "VAA_dNq_-8c",
+      "heading": "Flames in freefall",
+      "creator": "Physics Girl",
+      "categories": ["Kinematics", "Thermodynamics"],
+      "topics": ["freefall", "gases", "convection"]
+    },
+    {
+      "id": "ihv4f7VMeJw",
+      "heading": "The truth about toilet swirl",
+      "creator": "Veritasium",
+      "categories": ["Circular motion", "Fluids"],
+      "topics": [
+        "fictitious forces",
+        "Coriolis effect",
+        "flow",
+        "Bernoulli's principle"
+      ]
+    },
+    {
+      "id": "2p_8gx-XHJo",
+      "heading": "How to go to space",
+      "creator": "Minute Physics",
+      "categories": ["Forces", "Momentum", "Gravitation"],
+      "topics": [
+        "Newton's 2nd law",
+        "mass",
+        "gravitational force",
+        "drag",
+        "universal gravitation",
+        "gravitational field",
+        "orbit",
+        "recoil",
+        "explosions",
+        "rocket propulsion"
+      ]
+    },
+    {
+      "id": "aDorTBEhEtk",
+      "heading": "Toilet swirl: Northern hemisphere",
+      "creator": "Smarter Every Day",
+      "categories": ["Circular motion", "Fluids"],
+      "topics": [
+        "fictitious forces",
+        "Coriolis effect",
+        "flow",
+        "Bernoulli's principle"
+      ]
+    },
+    {
+      "id": "BTqu9iMiPIU",
+      "heading": "Strapped to a falling helicopter",
+      "creator": "Smarter Every Day",
+      "categories": ["Fluids"],
+      "topics": ["flow", "lift", "Bernoulli's principle"]
+    },
+    {
+      "id": "1Xp_imnO6WE",
+      "heading": "5 fun physics phenomena",
+      "creator": "Veritasium",
+      "categories": ["Forces", "Rotation", "Electricity", "Fluids"],
+      "topics": [
+        "friction",
+        "gravitational force",
+        "center of mass",
+        "moment of inertia",
+        "electric charge",
+        "polarization",
+        "gases",
+        "convection"
+      ]
+    },
+    {
+      "id": "aDfB3gnxRhc",
+      "heading": "Cold fusion",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["nuclear physics", "mass-energy equivalence", "fission"]
+    },
+    {
+      "id": "BunU6CTmhFw",
+      "heading": "How rollercoasters affect your body",
+      "creator": "TED Ed",
+      "categories": ["Kinematics", "Forces"],
+      "topics": [
+        "acceleration",
+        "pressure",
+        "reference frames",
+        "gravitational force"
+      ]
+    },
+    {
+      "id": "Q_F9CxSmGOM",
+      "heading": "Home run machine",
+      "creator": "Smarter Every Day",
+      "categories": ["Kinematics", "Momentum", "Rotation"],
+      "topics": [
+        "2D",
+        "projectile motion",
+        "freefall",
+        "collisions",
+        "inelastic collisions",
+        "torque",
+        "angular velocity",
+        "moment of inertia",
+        "rotational kinetic energy"
+      ]
+    },
+    {
+      "id": "_WHRWLnVm_M",
+      "heading": "Laws and causes",
+      "creator": "Vsauce",
+      "categories": ["Rotation"],
+      "topics": ["torque", "angular momentum", "angular velocity"]
+    },
+    {
+      "id": "8G1oc5Qq90U",
+      "heading": "Introduction to kinematics",
+      "creator": "Flipping Physics",
+      "categories": ["Kinematics"],
+      "topics": [
+        "1D",
+        "speed",
+        "constant velocity",
+        "acceleration",
+        "vectors",
+        "freefall",
+        "graphs",
+        "equations"
+      ]
+    },
+    {
+      "id": "GiiWsXtt5GE",
+      "heading": "Introduction to projectile motion",
+      "creator": "Flipping Physics",
+      "categories": ["Kinematics"],
+      "topics": [
+        "2D",
+        "acceleration",
+        "vectors",
+        "projectile motion",
+        "freefall",
+        "graphs",
+        "equations"
+      ]
+    },
+    {
+      "id": "29YPIvj1zjc",
+      "heading": "Force diagrams",
+      "creator": "Flipping Physics",
+      "categories": ["Forces"],
+      "topics": ["friction", "vectors", "pressure"]
+    },
+    {
+      "id": "i-DdiI7gFoM",
+      "heading": "Static and kinetic friction",
+      "creator": "Flipping Physics",
+      "categories": ["Forces"],
+      "topics": [
+        "friction",
+        "vectors",
+        "Newton's 2nd law",
+        "static equilibrium"
+      ]
+    },
+    {
+      "id": "vWzjhKifwcU",
+      "heading": "Static friction on an incline",
+      "creator": "Flipping Physics",
+      "categories": ["Forces"],
+      "topics": [
+        "friction",
+        "gravitational force",
+        "vectors",
+        "Newton's 2nd law",
+        "static equilibrium",
+        "equations"
+      ]
+    },
+    {
+      "id": "r_yqJ2HXoC0",
+      "heading": "Rolling without slipping",
+      "creator": "Flipping Physics",
+      "categories": ["Forces"],
+      "topics": [
+        "friction",
+        "vectors",
+        "Newton's 2nd law",
+        "moment of inertia",
+        "torque",
+        "rolling",
+        "constant velocity",
+        "equations"
+      ]
+    },
+    {
+      "id": "Kf0bBxmNeec",
+      "heading": "Introduction to momentum",
+      "creator": "Flipping Physics",
+      "categories": ["Momentum"],
+      "topics": [
+        "transverse",
+        "1D",
+        "recoil",
+        "impulse",
+        "collisions",
+        "elastic collisions",
+        "inelastic collisions",
+        "conservation",
+        "vectors",
+        "equations"
+      ]
+    },
+    {
+      "id": "SqGtp6RQy_8",
+      "heading": "Doppler effect demonstrations",
+      "creator": "Flipping Physics",
+      "categories": ["Waves"],
+      "topics": ["wavelength", "speed", "Doppler effect", "frequency", "sound"]
+    },
+    {
+      "id": "O7DD1otBwt0",
+      "heading": "Mechanical waves review",
+      "creator": "Flipping Physics",
+      "categories": ["Waves"],
+      "topics": [
+        "transverse",
+        "longitudinal",
+        "frequency",
+        "amplitude",
+        "speed",
+        "wavelength",
+        "sound",
+        "resonance",
+        "interference",
+        "beats",
+        "standing waves",
+        "graphs"
+      ]
+    },
+    {
+      "id": "Q8Yp9SjCU5E",
+      "heading": "Amazing archer",
+      "creator": "Smarter Every Day",
+      "categories": ["Kinematics", "Energy"],
+      "topics": [
+        "2D",
+        "projectile motion",
+        "kinetic energy",
+        "elastic potential energy"
+      ]
+    },
+    {
+      "id": "GJ4Qp2xeRds",
+      "heading": "How high can we build?",
+      "creator": "Vsauce",
+      "categories": ["Gravitation", "Energy"],
+      "topics": [
+        "universal gravitation",
+        "orbit",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "M2w3NZzPwOM",
+      "heading": "Compound pulleys",
+      "creator": "Smarter Every Day",
+      "categories": ["Forces", "Energy"],
+      "topics": [
+        "Newton's 2nd law",
+        "mass",
+        "gravitational force",
+        "static equilibrium",
+        "work",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "cTodS8hkSDg",
+      "heading": "What is quantum tunneling?",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": [
+        "quantum mechanics",
+        "wave-particle duality",
+        "nuclear decay",
+        "fusion"
+      ]
+    },
+    {
+      "id": "RF7dDt3tVmI",
+      "heading": "Quantum tunneling visualization",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Modern physics", "Waves"],
+      "topics": [
+        "quantum mechanics",
+        "wave-particle duality",
+        "wavelength",
+        "interference",
+        "amplitude",
+        "reflection"
+      ]
+    },
+    {
+      "id": "7vc-Uvp3vwg",
+      "heading": "What is the uncertainty principle?",
+      "creator": "Minute Physics",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality", "wavelength"]
+    },
+    {
+      "id": "agujzHdvtjc",
+      "heading": "Transformers",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity", "Magnetism", "Energy"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential",
+        "electric potential energy",
+        "batteries",
+        "power",
+        "solenoid",
+        "magnetic field",
+        "electromagnetic induction"
+      ]
+    },
+    {
+      "id": "YlYEi0PgG1g",
+      "heading": "The mighty lever",
+      "creator": "TED Ed",
+      "categories": ["Energy", "Rotation"],
+      "topics": ["work", "torque"]
+    },
+    {
+      "id": "TQKELOE9eY4",
+      "heading": "What is the Heisenberg uncertainty principle?",
+      "creator": "TED Ed",
+      "categories": ["Modern physics"],
+      "topics": ["quantum mechanics", "wave-particle duality", "wavelength"]
+    },
+    {
+      "id": "mxhxL1LzKww",
+      "heading": "How much of the Earth can you see at once?",
+      "creator": "Vsauce",
+      "categories": ["Gravitation"],
+      "topics": ["orbit", "vectors"]
+    },
+    {
+      "id": "u6y2RPQw7E0",
+      "heading": "How does work...work?",
+      "creator": "TED Ed",
+      "categories": ["Energy"],
+      "topics": ["work", "kinetic energy", "gravitational potential energy"]
+    },
+    {
+      "id": "7KYTJ8tBoZ8",
+      "heading": "A brief history of everything",
+      "creator": "Minute Physics",
+      "categories": ["Gravitation", "Thermodynamics", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "cosmology",
+        "thermal energy",
+        "radiation",
+        "photons",
+        "2nd law of thermodynamics"
+      ]
+    },
+    {
+      "id": "hYf6av21x5c",
+      "heading": "Guns in space",
+      "creator": "Vsauce",
+      "categories": ["Gravitation", "Modern physics", "Thermodynamics"],
+      "topics": ["orbit", "fusion", "universal gravitation", "thermal energy"]
+    },
+    {
+      "id": "3MqYE2UuN24",
+      "heading": "Is it better to walk or run in the rain?",
+      "creator": "Minute Physics",
+      "categories": ["Fluids"],
+      "topics": ["flow"]
+    },
+    {
+      "id": "ZM8ECpBuQYE",
+      "heading": "Motion in a straight line",
+      "creator": "Crash Course",
+      "categories": ["Kinematics"],
+      "topics": [
+        "1D",
+        "speed",
+        "constant velocity",
+        "acceleration",
+        "vectors",
+        "graphs",
+        "equations"
+      ]
+    },
+    {
+      "id": "w3BhzYI6zXU",
+      "heading": "Vectors & 2D motion",
+      "creator": "Crash Course",
+      "categories": ["Kinematics"],
+      "topics": [
+        "2D",
+        "speed",
+        "constant velocity",
+        "acceleration",
+        "vectors",
+        "projectile motion",
+        "freefall",
+        "graphs",
+        "equations"
+      ]
+    },
+    {
+      "id": "6wmFAwqQB0g",
+      "heading": "Chiadni patterns on a square plate",
+      "creator": "Dan Russell",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "resonance",
+        "frequency",
+        "wavelength",
+        "sound",
+        "standing waves"
+      ]
+    },
+    {
+      "id": "Cw1flJdFjEA",
+      "heading": "Slow-moving waves",
+      "creator": "Bruce Yeany",
+      "categories": ["Vibration", "Waves"],
+      "topics": [
+        "frequency",
+        "wavelength",
+        "strings",
+        "transverse",
+        "amplitude"
+      ]
+    },
+    {
+      "id": "9P6rdqiybaw",
+      "heading": "Wormholes explained",
+      "creator": "Kurzgesagt",
+      "categories": ["Gravitation", "Modern physics"],
+      "topics": [
+        "universal gravitation",
+        "cosmology",
+        "2nd law of thermodynamics",
+        "black holes",
+        "entropy",
+        "special relativity",
+        "general relativity",
+        "time dilation",
+        "length contraction"
+      ]
+    },
+    {
+      "id": "CjJVBvDNxcE",
+      "heading": "Coupled pendulums",
+      "creator": "Dan Russell",
+      "categories": ["Vibration", "Waves", "Energy"],
+      "topics": [
+        "resonance",
+        "frequency",
+        "pendulum",
+        "beats",
+        "elastic potential energy",
+        "kinetic energy",
+        "gravitational potential energy"
+      ]
+    },
+    {
+      "id": "je7eLZS6GG0",
+      "heading": "Acoustic propulsion",
+      "creator": "Dan Russell",
+      "categories": ["Vibration", "Energy"],
+      "topics": [
+        "standing waves",
+        "wavelength",
+        "sound",
+        "resonance",
+        "work",
+        "rotational kinetic energy",
+        "power"
+      ]
+    },
+    {
+      "id": "QL6HkOukxLA",
+      "heading": "Identical track race",
+      "creator": "Bruce Yeany",
+      "categories": ["Kinematics", "Forces", "Energy"],
+      "topics": [
+        "speed",
+        "acceleration",
+        "gravitational force",
+        "kinetic energy",
+        "gravitational potential energy",
+        "conservation"
+      ]
+    },
+    {
+      "id": "JWtsOiVxIIE",
+      "heading": "Marble tracks",
+      "creator": "Bruce Yeany",
+      "categories": ["Kinematics", "Forces", "Energy"],
+      "topics": [
+        "speed",
+        "acceleration",
+        "gravitational force",
+        "kinetic energy",
+        "gravitational potential energy",
+        "conservation",
+        "conservation",
+        "friction",
+        "thermal energy"
+      ]
+    },
+    {
+      "id": "u4FpbaMW5sk",
+      "heading": "Battery energy and power",
+      "creator": "Eugene Khutoryansky",
+      "categories": ["Electricity", "Energy"],
+      "topics": [
+        "circuits",
+        "electric current",
+        "voltage",
+        "electric potential",
+        "electric potential energy",
+        "batteries",
+        "power",
+        "internal energy"
+      ]
+    },
+    {
+      "id": "yc2-363MIQs",
+      "heading": "The science of static electricity",
+      "creator": "TED Ed",
+      "categories": ["Electricity"],
+      "topics": [
+        "electric charge",
+        "charging by friction",
+        "polarization",
+        "conductors",
+        "insulators",
+        "electroscope",
+        "grounding",
+        "lightning"
+      ]
+    },
+    {
+      "id": "GDrBIKOR01c",
+      "heading": "Messages for the future",
+      "creator": "Vsauce",
+      "categories": ["Gravitation"],
+      "topics": ["cosmology"]
+    },
+    {
+      "id": "Da-2h2B4faU",
+      "heading": "String theory explained",
+      "creator": "Kurzgesagt",
+      "categories": ["Modern physics", "Waves", "Gravitation"],
+      "topics": [
+        "frequency",
+        "wavelength",
+        "strings",
+        "amplitude",
+        "11D",
+        "cosmology",
+        "general relativity"
+      ]
+    }
+  ]
+}

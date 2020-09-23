@@ -1,0 +1,29 @@
+@import "./variables.scss";
+
+.App {
+  position: relative;
+}
+
+.LoadingText {
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  font-size: 3rem;
+  color: $light-yellow;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  opacity: 0;
+  animation-name: opacityOn;
+  animation-duration: 500ms;
+  animation-iteration-count: 1;
+  position: absolute;
+}
+
+@keyframes opacityOn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

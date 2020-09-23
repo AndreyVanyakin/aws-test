@@ -1,0 +1,405 @@
+@import "../../variables.scss";
+
+.Footer {
+  position: relative;
+  width: 100%;
+  min-width: 320px;
+  z-index: 17;
+  background-color: $rocket-trail-white;
+  overflow: hidden;
+}
+
+.FooterPaddingTop {
+  position: relative;
+  width: 100%;
+  min-width: 320px;
+  height: 10vw;
+  z-index: 17;
+  background-color: $rocket-trail-white;
+  margin: -4px 0;
+}
+
+.FooterBG {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.BGPanel {
+  position: relative;
+  z-index: -1;
+  margin-bottom: -2px;
+}
+
+.Rocket {
+  position: absolute;
+  top: 3.9%;
+  right: 43.2%;
+  width: 20%;
+  z-index: 11;
+  transform: translate(-1600px, 1600px);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1) 0.4s;
+}
+
+.RocketShowing {
+  transform: translate(0px, 0px);
+}
+
+.RocketHidden {
+  // transform: translate(-800px, 800px);
+}
+
+.Ampersand {
+  transform: translateY(7%);
+  width: 22%;
+  z-index: 10;
+}
+
+.FooterAmpMask {
+  position: absolute;
+  width: 12.43%;
+  transform: translate(-39%, 68%);
+  top: 0;
+  z-index: 12;
+}
+
+.Meteors {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 17;
+  width: 30%;
+  transform: translate(-40%, 120%);
+}
+
+.FooterContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  bottom: 8%;
+  width: 100%;
+}
+
+.ConnectHeading {
+  color: $light-yellow;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  background-color: $space-gray;
+  padding: 0 0.5rem;
+}
+
+.SocialIcons {
+  font-size: 8rem;
+  margin-left: -1.5rem;
+}
+
+.SocialIcon {
+  padding: 4rem 4rem 5rem;
+  color: $light-yellow;
+  text-decoration: none;
+  box-sizing: content-box;
+
+  background-color: $space-gray;
+}
+
+.SocialIcon:hover {
+  color: $primary-blue;
+}
+
+.FooterLinks {
+  color: $light-yellow;
+  font-size: 7rem;
+  font-weight: 600;
+
+  background-color: $space-gray;
+  text-transform: uppercase;
+
+  a {
+    color: $light-yellow;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+  }
+}
+
+.FooterLinks a:hover {
+  color: $primary-blue;
+}
+
+.FooterLink {
+  display: inline-block;
+  padding: 0 3rem;
+  margin: 0;
+}
+
+.Copyright {
+  position: relative;
+  width: 100%;
+  z-index: 16;
+  background-color: $space-gray;
+  color: $light-yellow;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+
+  padding: 1rem 0 1.5rem;
+  font-size: 3.8rem;
+  line-height: 7rem;
+}
+
+.Copyright2 {
+  display: block;
+}
+
+.Terms {
+  text-decoration: none;
+  display: inline-block;
+  color: $rocket-trail-white;
+  margin-left: 1rem;
+}
+
+@media only screen and (max-width: 2000px) {
+  .FooterContent {
+    bottom: 9%;
+  }
+
+  .FooterLinks {
+    font-size: 5rem;
+    margin-top: 0;
+  }
+
+  .SocialIcons {
+    font-size: 6rem;
+  }
+
+  .SocialIcon {
+    padding: 4rem 2rem 4.5rem;
+  }
+
+  .FooterLinks {
+    a {
+      padding: 0.3rem;
+    }
+  }
+
+  .FooterLink {
+    padding: 0 4rem;
+  }
+
+  .ConnectHeading {
+    font-size: 3.5rem;
+    margin-bottom: 0rem;
+  }
+
+  .Copyright {
+    padding: 1rem 0 1.5rem;
+    font-size: 3.2rem;
+    line-height: 6rem;
+  }
+}
+
+@media only screen and (max-width: 1650px) {
+  .FooterContent {
+    bottom: 9%;
+  }
+
+  .FooterLinks {
+    font-size: 4.5rem;
+    margin-top: 0;
+  }
+
+  .SocialIcons {
+    font-size: 5rem;
+  }
+
+  .SocialIcon {
+    padding: 3rem 2rem 4.5rem;
+  }
+
+  .FooterLinks {
+    a {
+      padding: 0.3rem;
+    }
+  }
+
+  .FooterLink {
+    padding: 0 2.4rem;
+  }
+
+  .ConnectHeading {
+    font-size: 3.5rem;
+    margin-bottom: 0rem;
+  }
+
+  .Copyright {
+    padding: 1rem 0 1.5rem;
+    font-size: 2.6rem;
+    line-height: 4.5rem;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .FooterContent {
+    bottom: 9%;
+  }
+
+  .FooterLinks {
+    font-size: 3rem;
+    margin-top: 0;
+  }
+
+  .SocialIcons {
+    font-size: 4rem;
+  }
+
+  .SocialIcon {
+    padding: 2rem 1.5rem 3rem;
+  }
+
+  .FooterLinks {
+    a {
+      padding: 0.3rem;
+    }
+  }
+
+  .FooterLink {
+    padding: 0 2.3rem;
+  }
+
+  .ConnectHeading {
+    font-size: 2.5rem;
+    margin-bottom: 0rem;
+  }
+
+  .Copyright {
+    padding: 1rem 0 1.5rem;
+    font-size: 2.4rem;
+    line-height: 3.8rem;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .FooterContent {
+    bottom: 6%;
+  }
+
+  .FooterLinks {
+    font-size: 2.3rem;
+    margin-top: 0;
+  }
+
+  .SocialIcons {
+    font-size: 3rem;
+  }
+
+  .SocialIcon {
+    padding: 1.5rem 1rem 2rem;
+  }
+
+  .FooterLinks {
+    a {
+      padding: 0.3rem;
+    }
+  }
+
+  .FooterLink {
+    padding: 0 1.5rem;
+  }
+
+  .ConnectHeading {
+    font-size: 2rem;
+    margin-bottom: 0rem;
+  }
+
+  .Copyright {
+    padding: 1rem 0 1.5rem;
+    font-size: 1.9rem;
+    line-height: 3rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .FooterContent {
+    bottom: 4%;
+  }
+
+  .FooterLinks {
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+
+  .SocialIcons {
+    font-size: 2.5rem;
+  }
+
+  .SocialIcon {
+    padding: 0.5rem 1rem 1rem;
+  }
+
+  .FooterLinks {
+    a {
+      padding: 0.3rem;
+    }
+  }
+
+  .FooterLink {
+    padding: 0 1.2rem;
+  }
+
+  .ConnectHeading {
+    font-size: 1.6rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .Copyright {
+    padding: 1rem 0 1.5rem;
+    font-size: 1.1rem;
+    line-height: 2rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .FooterContent {
+    bottom: 4%;
+  }
+
+  .FooterLinks {
+    font-size: 1.1rem;
+    margin-top: 0;
+  }
+
+  .SocialIcons {
+    font-size: 1.6rem;
+  }
+
+  .SocialIcon {
+    padding: 0.5rem 1rem 1rem;
+  }
+
+  .FooterLinks {
+    a {
+      padding: 0.3rem;
+    }
+  }
+
+  .FooterLink {
+    padding: 0 1.1rem;
+  }
+
+  .ConnectHeading {
+    font-size: 1.1rem;
+    margin-bottom: 0;
+  }
+
+  .Copyright {
+    padding: 1rem 0 1rem;
+    font-size: 0.9rem;
+    line-height: 2rem;
+  }
+}

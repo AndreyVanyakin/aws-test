@@ -1,0 +1,58 @@
+@import "../../../variables.scss";
+
+.LevelDisplayContainer {
+  display: inline-block;
+  position: relative;
+  width: 10rem;
+  margin-left: 2.8%;
+}
+
+.LevelDisplay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.LevelInfo {
+  color: $light-yellow;
+  font-family: "CocogoosePro-Regular", sans-serif;
+  font-size: 50px;
+}
+
+.LevelButtons {
+  display: inline-block;
+}
+
+.PrevLevelButton,
+.NextLevelButton {
+  display: inline-block;
+  margin: 1rem;
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  cursor: pointer;
+}
+
+.PrevLevelButton {
+  border-right: 15px solid $light-yellow;
+}
+
+.NextLevelButton {
+  border-left: 15px solid $light-yellow;
+}
+
+.Disabled {
+  pointer-events: none;
+  opacity: 0.25;
+}
+
+.PrevLevelButton:hover,
+.NextLevelButton:hover {
+  transform: scale(1.12);
+}
+
+.PrevLevelButton:active,
+.NextLevelButton:active {
+  transform: scale(0.96);
+}

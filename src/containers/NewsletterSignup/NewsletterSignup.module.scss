@@ -1,0 +1,206 @@
+@import "../../variables.scss";
+
+.NewsletterSignup {
+  position: relative;
+  text-align: center;
+  width: 60%;
+  min-width: 32rem;
+  max-width: 160rem;
+  display: inline-block;
+  margin: 10vw auto 0;
+  overflow: visible;
+  background-color: #8ec099;
+  border-radius: 4rem;
+  padding: 2rem 0 1rem 8rem;
+  transform: translate(5%, 0);
+}
+
+.EarthMars {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  width: 38%;
+  min-width: 36rem;
+  max-width: 40rem;
+  transform: translate(-55%, -50%);
+}
+
+.Header {
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  font-size: 5rem;
+  margin: 2rem;
+  padding: 0 2rem;
+  color: $light-yellow;
+}
+
+.Subheader {
+  font-family: "Montserrat", "Tahoma,", sans-serif;
+  font-size: 2.6rem;
+  margin: 2rem auto 1.5rem;
+  padding-left: 2rem;
+  width: 80%;
+  color: $space-gray;
+}
+
+.EmailForm {
+  display: inline-block;
+}
+
+.EmailInput {
+  background-color: $rocket-trail-white;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  font-size: 2.4rem;
+  width: 60%;
+  border-radius: 1.4rem;
+}
+
+.SubmitButton {
+  background-color: $primary-red;
+  color: $rocket-trail-white;
+  padding: 1rem 2rem;
+  margin-top: 2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  border-radius: 2rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-transform: uppercase;
+}
+
+.SubmitButton:hover {
+  transform: scale(1.1) translateY(-5px);
+  box-shadow: 0px 4px 2px rgba(0, 0, 0, 0.4);
+}
+
+.SendingMessage,
+.ErrorMessage,
+.SuccessMessage {
+  width: 80%;
+  font-size: 1.4rem;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  margin: 0 auto;
+  padding-left: 2rem;
+}
+
+.SendingMessage {
+  color: $rocket-trail-white;
+}
+
+.ErrorMessage {
+  color: $primary-yellow;
+}
+
+.SuccessMessage {
+  color: $light-yellow;
+}
+
+.Footer {
+  font-family: "Montserrat", "Tahoma,", sans-serif;
+  font-size: 2rem;
+  width: 70%;
+  margin: 2rem auto 3rem;
+  padding: 0 2rem;
+  color: $rocket-trail-white;
+}
+
+@media only screen and (max-width: 1100px) {
+  .EarthMars {
+    // top: 20%;
+    // left: 0%;
+    // width: 55%;
+    // transform: translate(-73%, -47%);
+  }
+
+  .Header {
+    padding-left: 12%;
+  }
+
+  .Subheader {
+    padding-left: 12%;
+  }
+
+  .SendingMessage,
+  .ErrorMessage,
+  .SuccessMessage {
+    padding-left: 12%;
+  }
+
+  .EmailForm {
+    padding: 2rem 0rem 0 0rem;
+  }
+
+  .EmailInput {
+    width: 80%;
+    margin-left: 4rem;
+  }
+  .Footer {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .NewsletterSignup {
+    margin: 28rem 0rem 0;
+    padding: 0;
+    transform: translateX(0);
+  }
+
+  .EarthMars {
+    top: 0%;
+    left: 50%;
+    height: 55%;
+    max-height: 22rem;
+    transform: translate(-50%, -84%);
+  }
+
+  .Header {
+    font-size: 4rem;
+    margin: 3rem 0 1rem;
+    padding: 0;
+  }
+
+  .Subheader {
+    font-size: 2rem;
+    padding: 0;
+    width: 80%;
+  }
+
+  .SendingMessage,
+  .ErrorMessage,
+  .SuccessMessage {
+    padding: 0;
+    width: 80%;
+  }
+
+  .EmailForm {
+    background-color: #8ec099;
+    border-radius: 5rem;
+    padding: 2rem 0 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  .EmailInput {
+    padding: 1rem;
+    margin: 1.5rem 0 0;
+    width: 75%;
+  }
+
+  .SubmitButton {
+    padding: 1rem 2rem;
+    margin-top: 2rem;
+  }
+
+  .SubmitButton:hover {
+    transform: scale(1.06);
+  }
+
+  .Footer {
+    width: 70%;
+    padding: 2rem 0;
+    margin: 0 auto;
+  }
+}

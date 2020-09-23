@@ -1,0 +1,54 @@
+@import "../../variables.scss";
+/* Cocogoose font */
+@import url("//hello.myfonts.net/count/3bd8c0");
+
+@font-face {
+  font-family: "CocogoosePro-Regular";
+  src: url("../../assets/webFonts/CocogoosePro-Regular/font.woff2")
+      format("woff2"),
+    url("../../assets/webFonts/CocogoosePro-Regular/font.woff") format("woff");
+}
+
+.LandingPage {
+  position: relative;
+  width: 100%;
+  min-width: 32rem;
+  // height: 300vw;
+}
+
+.TaglineSpacer {
+  min-height: 2rem;
+  height: 4vw;
+  max-height: 7rem;
+}
+
+.Tagline {
+  text-align: center;
+  position: relative;
+  color: $light-yellow;
+  text-transform: uppercase;
+  font-family: "CocogoosePro-Regular", sans-serif;
+  font-size: 11px;
+}
+
+.MainSection {
+  position: relative;
+  z-index: 30;
+}
+
+@media screen and (min-width: 400px) {
+  .Tagline {
+    font-size: calc(11px + 17 * ((100vw - 400px) / 1600));
+  }
+}
+@media screen and (min-width: 2000px) {
+  .Tagline {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .LandingPage {
+    padding-top: 3rem;
+  }
+}

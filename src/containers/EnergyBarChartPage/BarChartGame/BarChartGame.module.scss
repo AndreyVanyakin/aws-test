@@ -1,0 +1,153 @@
+@import "../../../variables.scss";
+
+.BarChartGame {
+  position: relative;
+  padding: 0 0 40rem;
+  margin: 2rem 0 0;
+  background-color: $space-gray;
+}
+
+.SystemInfoContainer {
+  top: 0;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.SystemInfo {
+  position: relative;
+  top: 1rem;
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  border-radius: 3rem;
+  color: $rocket-trail-white;
+  background-color: $primary-blue;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  font-size: 3.4rem;
+  font-weight: 300;
+}
+
+.LevelNum {
+  font-weight: 500;
+}
+
+.System {
+  font-weight: 600;
+  color: $rocket-trail-white;
+  // text-decoration: underline;
+}
+
+.UITop {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  margin-top: 2rem;
+}
+
+.UITopLeft {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+  margin: 15rem 2rem 0rem 3rem;
+}
+
+.UITopRight {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+  margin: 8rem 3rem 0rem 2rem;
+}
+
+.Digit {
+  display: inline-block;
+  transition: all 0.5s ease;
+}
+
+.DigitHighlighted {
+  transition: none;
+  color: $primary-yellow;
+}
+
+.InfoMessage {
+  display: inline-block;
+  text-align: center;
+  color: $rocket-trail-white;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  font-size: 2.8rem;
+}
+
+.TopButton {
+  display: inline-block;
+  border: none;
+  padding: 1.3rem 2rem;
+  text-decoration: none;
+  color: $rocket-trail-white;
+  font-size: 3rem;
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  border-radius: 1.8rem;
+  cursor: pointer;
+  text-align: center;
+  transition: background 250ms ease-in-out, transform 150ms ease;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.TopButton:focus {
+  // outline: 1px solid #fff;
+  // outline-offset: 10px;
+}
+
+.TopButton:active {
+  transform: scale(0.99);
+}
+
+.CheckButton {
+  background: $primary-red;
+}
+
+.CheckButton:hover,
+.CheckButton:focus {
+  background: #dd5739;
+}
+
+.HelpButton {
+  background: $primary-green;
+}
+
+.HelpButton:hover,
+.HelpButton:focus {
+  background: #519760;
+}
+
+.UIBottom {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12rem;
+}
+
+.UIBottomRow1 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.UIBottomRow2 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}

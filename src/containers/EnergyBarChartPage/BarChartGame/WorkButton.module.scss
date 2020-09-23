@@ -1,0 +1,22 @@
+@import "../../../variables.scss";
+
+.WorkButton {
+  position: absolute;
+  padding: 1rem 1.2rem;
+  cursor: pointer;
+  border-radius: 2.8rem;
+  text-align: center;
+  color: $space-gray;
+  background-color: $light-yellow;
+  font-size: 2rem;
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  transition: all 0.2s ease;
+  top: 105%;
+  left: 50%;
+  transform: translateX(-50%);
+  pointer-events: initial;
+}
+
+.WorkButton:hover {
+  background-color: $rocket-trail-white;
+}

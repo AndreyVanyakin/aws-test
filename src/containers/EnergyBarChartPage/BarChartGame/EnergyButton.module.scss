@@ -1,0 +1,137 @@
+@import "../../../variables.scss";
+
+.EnergyButton {
+  position: relative;
+  cursor: pointer;
+  border-radius: 4rem;
+  transition: all 0.2s ease;
+  width: 17rem;
+  height: 16rem;
+}
+
+.EnergyButtonOpen {
+  width: 22rem;
+}
+
+.AddMessage {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: $space-gray;
+  font-size: 3rem;
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  text-align: center;
+  transition: all 0.2s ease;
+  pointer-events: none;
+}
+
+.AddMessageOpen {
+  opacity: 0;
+}
+
+.EnergyButton:hover .ButtonClosedMessage {
+  transform: translate(-50%, -50%) scale(1.05);
+}
+
+.ButtonOpen {
+  text-decoration: none;
+  color: $space-gray;
+  font-size: 3rem;
+  font-family: "CocogoosePro-Regular", "Montserrat", "Tahoma", sans-serif;
+  text-align: center;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+.EnergyButton:hover {
+  //   transform: scale(1.06);
+  background-color: #fff;
+
+  & .ButtonClosed {
+    transform: scale(1.03);
+  }
+}
+
+.SubButtons {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.SubButtonText {
+  font-size: 0rem;
+  opacity: 0;
+  transition: transform 0.2s ease;
+}
+
+.SubButtonTextOpen {
+  opacity: 1;
+  font-size: 2.4rem;
+}
+
+.EnergyButton:hover .SubButtonClosed {
+  background-color: #fff;
+}
+
+.SubButton {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1rem 2rem;
+  background-color: $light-yellow;
+  font-family: "Montserrat", "Tahoma", sans-serif;
+  transition: padding 0.35s ease, background-color 0.35s ease;
+}
+
+.SubButtonOpen {
+  padding: 1.5rem 0rem;
+}
+
+.SubButton:first-child {
+  border-top-left-radius: 4rem;
+  border-top-right-radius: 4rem;
+}
+
+.SubButton:last-child {
+  border-bottom-left-radius: 4rem;
+  border-bottom-right-radius: 4rem;
+}
+
+.KEButtonOpen {
+  background-color: $primary-green;
+}
+
+.GPEButtonOpen {
+  background-color: $primary-blue;
+}
+
+.EPEButtonOpen {
+  background-color: $primary-yellow;
+}
+
+.IEButtonOpen {
+  background-color: $primary-red;
+}
+
+.KEButtonOpen:hover {
+  background-color: #b5e7c0;
+}
+
+.GPEButtonOpen:hover {
+  background-color: #78d3e6;
+}
+
+.EPEButtonOpen:hover {
+  background-color: #f3ebb4;
+}
+
+.IEButtonOpen:hover {
+  background-color: #f1927d;
+}

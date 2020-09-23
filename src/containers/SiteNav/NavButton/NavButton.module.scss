@@ -1,0 +1,311 @@
+@import "../../../variables.scss";
+
+.UIButton {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.MenuBtn {
+  margin-left: 1.5rem;
+}
+
+.DonateBtn {
+  margin-left: auto;
+}
+
+.UserBtn {
+  margin: 0 1.5rem;
+  position: relative;
+}
+
+.ButtonBG {
+  height: 55%;
+  border-radius: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-width: 3px;
+  padding: 0 2rem;
+  pointer-events: initial;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background-color: $space-gray;
+}
+
+.MenuBtn .ButtonBG {
+  border-color: $light-yellow;
+}
+
+.Collapse .ButtonBG {
+  padding: 0 0.8rem;
+}
+
+.Collapse .ButtonIcon {
+  width: 1.7rem;
+  height: 1.7rem;
+}
+
+.DonateBtn .ButtonBG {
+  border-color: $primary-red;
+}
+
+.UserBtn .ButtonBG {
+  border-color: $primary-blue;
+}
+
+.BtnText {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin: 0 0 0 0.7rem;
+}
+
+.MenuBtn .BtnText {
+  color: $light-yellow;
+  margin-left: 1rem;
+}
+
+.DonateBtn .BtnText {
+  color: $primary-red;
+}
+
+.UserBtn .BtnText {
+  color: $primary-blue;
+}
+
+.ButtonIcon {
+  width: 2rem;
+  height: 2rem;
+}
+
+.IconImage {
+  width: 100%;
+  height: 100%;
+}
+
+.DonateBtn .IconImage {
+  fill: $primary-red;
+}
+
+.UserBtn .IconImage {
+  fill: $primary-blue;
+}
+///////DONATE BTN FUNCTIONALITY
+
+.MouseOver.DonateBtn .BtnText {
+  color: white;
+}
+
+.MouseOver.DonateBtn .IconImage {
+  fill: white;
+}
+
+.MouseOver.DonateBtn .ButtonBG {
+  background-color: $primary-red;
+}
+
+.MouseDown .BtnText {
+  color: white;
+}
+
+.MouseDown .IconImage {
+  fill: white;
+}
+
+.MouseDown .ButtonBG {
+  border-color: white;
+}
+
+///////USER BTN FUNCTIONALITY
+
+.MouseOver.UserBtn .ButtonBG {
+  background-color: $primary-blue;
+}
+
+.MouseOver.UserBtn .BtnText {
+  color: white;
+}
+
+.MouseOver.UserBtn .IconImage {
+  fill: white;
+}
+
+///////MENU BTN FUNCTIONALITY
+
+.MouseOver.MenuBtn .ButtonBG {
+  background-color: $light-yellow;
+}
+
+.MouseOver.MenuBtn .BtnText {
+  color: $space-gray;
+}
+
+.MouseDown.MenuBtn .BtnText {
+  color: white;
+}
+
+.MenuBtn .ButtonIcon {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.MenuIconImage {
+  background-color: $light-yellow;
+  width: 100%;
+  height: 2px;
+  transform-origin: center left;
+  transform: scaleX(1);
+  transition: transform 0.3s ease;
+  backface-visibility: hidden;
+  perspective: 1000;
+}
+
+.MenuBtn .ButtonIcon:before {
+  content: "";
+  position: absolute;
+  transform: translateY(-6px);
+  background-color: $light-yellow;
+  width: 100%;
+  height: 2px;
+  backface-visibility: hidden;
+  perspective: 1000;
+  transition: transform 0.3s cubic-bezier(0.68, -0.6, 0.32, 1.6),
+    margin 0.3s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+}
+
+.MenuBtn .ButtonIcon:after {
+  content: "";
+  position: absolute;
+  transform: translateY(6px);
+  background-color: $light-yellow;
+  width: 100%;
+  height: 2px;
+  backface-visibility: hidden;
+  perspective: 1000;
+  transition: transform 0.3s cubic-bezier(0.68, -0.6, 0.32, 1.6),
+    margin 0.3s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+}
+
+.MouseOver.MenuBtn .MenuIconImage,
+.MouseOver.MenuBtn .ButtonIcon:before,
+.MouseOver.MenuBtn .ButtonIcon:after {
+  background-color: $space-gray;
+}
+
+.MouseDown.MenuBtn .MenuIconImage,
+.MouseDown.MenuBtn .ButtonIcon:before,
+.MouseDown.MenuBtn .ButtonIcon:after {
+  background-color: white;
+}
+
+.ExitMode {
+  .MenuIconImage {
+    transform: scaleX(0);
+  }
+
+  .ButtonIcon:before {
+    transform: rotate(-135deg);
+    margin-top: 0px;
+  }
+
+  .ButtonIcon:after {
+    transform: rotate(135deg);
+    margin-top: 0px;
+  }
+}
+
+.MouseDown.DonateBtn .ButtonBG,
+.MouseDown.MenuBtn .ButtonBG,
+.MouseDown.UserBtn .ButtonBG {
+  background-color: transparent;
+}
+
+.UserBtn:after {
+  content: "Coming soon!";
+  color: $primary-blue;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  transform: translateY(50%);
+  animation-name: opacityOff;
+  animation-duration: 800ms;
+  animation-delay: 600ms;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+
+@keyframes opacityOff {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.MouseOver.UserBtn:after {
+  animation-name: none;
+  opacity: 1;
+}
+
+@media screen and (min-width: 1800px) {
+  .ButtonBG {
+    padding: 3rem 3rem;
+  }
+
+  .BtnText {
+    font-size: 24px;
+  }
+
+  .ButtonIcon {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .ButtonBG {
+    padding: 0 1.2rem;
+    border-width: 2px;
+  }
+
+  .BtnText {
+    font-size: 11px;
+  }
+
+  .ButtonIcon {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+
+  .UserBtn:after {
+    content: "Coming soon!";
+    color: $primary-blue;
+    font-size: 12px;
+    transform: translateY(70%);
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .UserBtn {
+    margin: 0 0.6rem;
+    z-index: 5;
+  }
+
+  .MenuBtn {
+    margin-left: 1rem;
+  }
+
+  .ButtonBG {
+    padding: 0;
+  }
+}

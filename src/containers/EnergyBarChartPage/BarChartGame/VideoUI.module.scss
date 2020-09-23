@@ -1,0 +1,152 @@
+@import "../../../variables.scss";
+
+.VideoUI {
+  cursor: pointer;
+  position: relative;
+}
+
+.VideoContainer {
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.PlayButtonContainer,
+.PlayButtonContainerPaused {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  opacity: 0.5;
+  transition: opacity 0.5s ease;
+}
+
+.PlayButtonContainerPaused {
+  opacity: 0;
+  transition-delay: 0.15s;
+}
+
+.PlayButton {
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  transition: clip-path 0.3s ease;
+}
+
+.PlayButtonContainerVisible {
+  opacity: 0.5;
+}
+
+.PlayButtonContainerInvisible {
+  opacity: 0;
+}
+
+.PlayButtonContainerDisappear {
+  // transition-delay: 0.1s;
+  opacity: 0;
+}
+
+.VideoContainer:hover .PlayButtonContainerDisappear {
+  transition-delay: 0s;
+  opacity: 0.5;
+}
+
+.PlayButtonBefore {
+  clip-path: polygon(0 0, 50% 25%, 50% 75%, 0% 100%);
+}
+
+.PlayButtonAfter {
+  clip-path: polygon(50% 25%, 100% 50%, 100% 50%, 50% 75%);
+}
+
+.PlayButtonContainerPaused .PlayButtonBefore {
+  clip-path: polygon(0 0, 30% 0, 30% 100%, 0% 100%);
+}
+
+.PlayButtonContainerPaused .PlayButtonAfter {
+  clip-path: polygon(70% 0, 100% 0, 100% 100%, 70% 100%);
+}
+
+.SliderContainer {
+  position: relative;
+  width: 100%;
+  z-index: 10;
+}
+
+.InstantDisplay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 0.6rem 1rem;
+  font-family: "Montserrat", "Tahoma", "sans-serif";
+  font-weight: 500;
+  font-size: 2.2rem;
+  color: $light-yellow;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.InstantDisplayShowing {
+  opacity: 1;
+  transition: opacity 0.2s ease;
+  z-index: 10;
+}
+
+.InstantDisplayHiding {
+  opacity: 0;
+  transition: opacity 0.7s ease;
+  z-index: 9;
+}
+
+.InstantLabels {
+  position: relative;
+  font-family: "Montserrat", "Tahoma", "sans-serif";
+  font-weight: 500;
+  font-size: 1.8rem;
+  color: $light-yellow;
+  overflow: visible;
+  z-index: 1;
+}
+
+.Instant1Label,
+.Instant2Label {
+  position: absolute;
+  transform: translateX(-50%);
+  border: 1px solid $light-yellow;
+  padding: 0.6rem 1.4rem;
+  border-radius: 6rem;
+  transition: all 0.3s ease;
+}
+
+.Instant1Label::after,
+.Instant2Label::after {
+  content: "";
+  position: absolute;
+  border-left: 1px solid $light-yellow;
+  height: 55%;
+  left: 50%;
+  transform: translate(-100%, -1.89rem);
+  z-index: -1;
+}
+
+.Instant1Label {
+  padding: 0.3rem 1.1rem;
+}
+.Instant2Label {
+  padding: 0.3rem 1.1rem 0.3rem 1rem;
+}
+
+.Instant1Label:hover,
+.Instant2Label:hover,
+.Instant1LabelHighlighted,
+.Instant2LabelHighlighted {
+  background-color: $light-yellow;
+  color: $space-gray;
+}

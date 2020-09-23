@@ -1,0 +1,385 @@
+@import "../../variables.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+input,
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border-style: none;
+}
+
+input {
+  /* font-size: 2rem; */
+}
+
+html {
+  /* background-color: #6772e5;
+  font-size: 16px;
+  font-family: Roboto, Open Sans, Segoe UI, sans-serif;
+  font-weight: 500;
+  height: 100%; */
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  /* height: 100%;
+  margin: 0; */
+}
+
+#root {
+  /* height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: scale3D(0.95, 0.95, 0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale3D(1, 1, 1);
+  }
+}
+
+.Form {
+  position: relative;
+  min-width: 20rem;
+  animation: fade 200ms ease-out;
+}
+
+.FormGroup {
+  margin: 0;
+  padding: 0;
+  border-style: none;
+  background-color: $primary-blue;
+  font-family: Montserrat, sans-serif;
+  will-change: opacity, transform;
+  border-radius: 1.4rem;
+}
+
+.FormGroupCard {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.FormRow {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0 15px;
+  border-top: 1px solid #37b1cc;
+}
+
+.FormRow:first-child {
+  border-top: none;
+}
+
+.FormRowLabel {
+  width: 15%;
+  min-width: 70px;
+  padding: 11px 0;
+  color: $rocket-trail-white;
+  overflow: hidden;
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@keyframes void-animation-out {
+  0%,
+  to {
+    opacity: 1;
+  }
+}
+.FormRowInput:-webkit-autofill {
+  -webkit-text-fill-color: #fce883;
+  /* Hack to hide the default webkit autofill */
+  transition: background-color 100000000s;
+  animation: 1ms void-animation-out;
+}
+
+.FormRowInput {
+  font-size: 16px;
+  width: 100%;
+  padding: 11px 15px 11px 0;
+  background-color: transparent;
+  font-family: Montserrat, sans-serif;
+  color: $rocket-trail-white;
+  animation: 1ms void-animation-out;
+}
+
+.FormRowInput::placeholder {
+  color: #c4f0ff;
+  font-family: Montserrat, sans-serif;
+}
+
+.StripeElement--webkit-autofill {
+  background: transparent !important;
+}
+
+.StripeElement {
+  width: 100%;
+  padding: 11px 15px 11px 0;
+}
+
+.AmountButtons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.AmountButton {
+  width: 32%;
+  // margin: 0rem auto 0;
+  background-color: $primary-green;
+  border-radius: 1.5rem;
+  color: $rocket-trail-white;
+  font-family: Montserrat, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 100ms ease-in-out;
+  padding: 1rem 0rem;
+  margin: 0rem 0 0.8rem;
+  will-change: transform, background-color, box-shadow;
+}
+
+.AmountButton:hover {
+  background-color: $rocket-trail-white;
+  color: $primary-green;
+}
+
+.AmountButtonSelected {
+  background-color: $rocket-trail-white;
+  color: $primary-green;
+}
+
+.AmountButton:active {
+  background-color: $rocket-trail-white;
+  box-shadow: 0 6px 9px rgba(50, 50, 93, 0.06), 0 2px 5px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 $rocket-trail-white;
+  transform: scale(0.99);
+}
+
+.AmountButton.AmountButton--error {
+  transform: translateY(15px);
+}
+.AmountButton.AmountButton--error:active {
+  transform: scale(0.99) translateY(15px);
+}
+
+.AmountButton:disabled {
+  opacity: 0.75;
+  cursor: default;
+  background-color: $space-gray;
+  box-shadow: none;
+}
+
+.CustomAmountButton {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32%;
+  // margin: 0rem auto 0;
+  background-color: $primary-green;
+  border-radius: 1.5rem;
+  color: $rocket-trail-white;
+  font-family: Montserrat, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  cursor: pointer;
+  // transition: all 100ms ease-in-out;
+  padding: 0.5rem 0rem;
+  margin: 0rem 0 0.8rem;
+  will-change: transform, background-color, box-shadow;
+}
+
+.CustomAmountButton:hover {
+  background-color: $rocket-trail-white;
+  color: $primary-green;
+}
+
+.CustomAmountButtonSelected {
+  background-color: $rocket-trail-white;
+  color: $primary-green;
+}
+
+.CustomAmountButton:active {
+  background-color: $rocket-trail-white;
+  box-shadow: 0 6px 9px rgba(50, 50, 93, 0.06), 0 2px 5px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 $rocket-trail-white;
+  transform: scale(0.99);
+}
+
+.CustomAmountButton.CustomAmountButton--error {
+  transform: translateY(15px);
+}
+.CustomAmountButton.CustomAmountButton--error:active {
+  transform: scale(0.99) translateY(15px);
+}
+
+.CustomAmountButton:disabled {
+  opacity: 0.75;
+  cursor: default;
+  background-color: $space-gray;
+  box-shadow: none;
+}
+
+.CustomAmountTextField {
+  border-radius: 0.8rem;
+  height: 100%;
+  width: 60%;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  padding-left: 0.6rem;
+  color: $primary-green;
+  // text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  background-color: $rocket-trail-white;
+}
+
+.SubmitButton {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin: 1rem auto 2rem;
+  background-color: $primary-red;
+  border-radius: 1.5rem;
+  color: $rocket-trail-white;
+  font-family: Montserrat, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 100ms ease-in-out;
+  will-change: transform, background-color, box-shadow;
+}
+
+.SubmitButton:hover {
+  background-color: $rocket-trail-white;
+  color: $primary-red;
+}
+
+.SubmitButton:active {
+  background-color: $rocket-trail-white;
+  box-shadow: 0 6px 9px rgba(50, 50, 93, 0.06), 0 2px 5px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 $rocket-trail-white;
+  transform: scale(0.99);
+}
+
+.SubmitButton.SubmitButton--error {
+  transform: translateY(15px);
+  margin: 1rem auto 3.5rem;
+}
+.SubmitButton.SubmitButton--error:active {
+  transform: scale(0.99) translateY(15px);
+}
+
+.SubmitButton:disabled {
+  opacity: 0.5;
+  cursor: default;
+  background-color: $space-gray;
+  box-shadow: none;
+}
+
+.SubmitButtonProcessing {
+  color: $light-yellow;
+}
+
+.SubmitButtonProcessing:disabled {
+  opacity: 1;
+}
+
+.SubmitButtonConfirmation {
+  background-color: $rocket-trail-white;
+  color: $primary-red;
+}
+
+.ErrorMessage {
+  color: $primary-yellow;
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  width: 100%;
+  height: 100%;
+  font-family: Montserrat, sans-serif;
+  opacity: 0;
+  animation: fade 150ms ease-out;
+  animation-delay: 50ms;
+  animation-fill-mode: forwards;
+  will-change: opacity, transform;
+}
+
+.ErrorMessage svg {
+  margin-right: 10px;
+}
+
+.ResultGroup {
+  position: relative;
+  text-align: center;
+}
+
+.ResultImageHeader {
+  margin: 2rem 0 3rem;
+  width: 30%;
+}
+
+.Result {
+  text-align: center;
+  animation: fade 200ms ease-out;
+}
+
+.ResultTitle {
+  color: $primary-yellow;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin-bottom: 14px;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.ResultMessage {
+  color: $rocket-trail-white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 2.6rem;
+  padding: 0 2rem;
+  line-height: 1.6em;
+  text-align: center;
+}
+
+.CheckoutHeader {
+  color: $light-yellow;
+  text-align: center;
+  // opacity: 0.6;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  margin: 1rem 0 1rem;
+  font-size: 2rem;
+}
+
+.CheckoutSubheader {
+  color: $rocket-trail-white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  max-width: 30rem;
+  margin: 1rem auto 2rem;
+  font-size: 1.2rem;
+}

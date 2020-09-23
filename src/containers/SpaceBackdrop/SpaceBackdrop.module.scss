@@ -1,0 +1,122 @@
+@import "../../variables.scss";
+
+.SpaceBackdrop {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  background-color: $space-gray;
+  overflow: hidden;
+}
+
+.StarBG {
+  position: absolute;
+  width: 110%;
+  min-width: 55rem;
+}
+
+.EarthMoonGroup {
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.EarthMoonSpacer {
+  min-height: 16rem;
+  height: 30vw;
+  max-height: 43rem;
+}
+
+.Earth {
+  position: relative;
+  width: 14vw;
+  height: 14vw;
+  min-width: 5rem;
+  min-height: 5rem;
+  max-width: 18rem;
+  max-height: 18rem;
+  border-radius: 50%;
+  animation: rotateEarth 6s linear infinite;
+  background: url(../../assets/images/svg/earth-continents.svg);
+  background-repeat: repeat;
+  background-size: cover;
+  left: 78%;
+  transform: translateX(-50%);
+  background-color: $primary-blue;
+  z-index: 2;
+}
+
+.Earth:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  content: "";
+  border-radius: 50%;
+  box-shadow: inset -1.8vw -1.8vw 0px 0 rgba(0, 0, 0, 1);
+  // box-shadow: inset -3.5vw -2vw 0px -1.5vw rgba(0, 0, 0, 1);
+  opacity: 0.4;
+  // box-shadow: -80px 15px 80px 10px rgba(0, 0, 0, 0.9) inset;
+}
+
+.MoonContainerFront {
+  position: relative;
+  z-index: 3;
+}
+
+.MoonContainerBack {
+  position: relative;
+  z-index: 1;
+}
+
+.Moon {
+  position: relative;
+  width: 4vw;
+  height: 4vw;
+  min-width: 1.3rem;
+  min-height: 1.3rem;
+  max-width: 5.5rem;
+  max-height: 5.5rem;
+  border-radius: 50%;
+  animation: rotateMoon 6s linear infinite;
+  background: url(../../assets/images/svg/moon-craters.svg);
+  background-repeat: repeat;
+  background-size: cover;
+  left: 78%;
+  transform: translate(-380%, -200%);
+  background-color: #b5b5b5;
+
+  opacity: 0.75;
+}
+
+.Moon:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  content: "";
+  border-radius: 50%;
+  box-shadow: inset -0.66vw -0.66vw 0px 0 rgba(0, 0, 0, 1);
+  opacity: 0.4;
+  // box-shadow: -80px 15px 80px 10px rgba(0, 0, 0, 0.9) inset;
+}
+
+@keyframes rotateEarth {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -266.5% 0;
+  }
+}
+
+@keyframes rotateMoon {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -188% 0;
+  }
+}

@@ -1,0 +1,70 @@
+.LogoLong,
+.LogoShort,
+.LogoLongLanding,
+.LogoShortLanding {
+  position: relative;
+  margin: 0 auto 0 auto;
+}
+
+.LogoLongLanding {
+  width: 34%;
+  max-width: 45rem;
+  min-width: 12rem;
+}
+
+.LogoShortLanding {
+  width: 30%;
+  max-width: 50rem;
+  min-width: 12rem;
+}
+
+.LogoLong {
+  width: 30%;
+  max-width: 40rem;
+  min-width: 10rem;
+}
+
+.LogoShort {
+  width: 30%;
+  max-width: 65rem;
+  min-width: 12rem;
+}
+
+.LogoSpacerTop {
+  position: relative;
+  height: 3.2vw;
+  min-height: 1.5rem;
+  max-height: 3.6rem;
+}
+
+.Meteor {
+  position: absolute;
+  top: -6%;
+  left: -7.8%;
+  width: 23%;
+}
+
+.LogoUMask {
+  position: absolute;
+  top: 1%;
+  left: 0;
+  width: 9.3%;
+}
+
+.LogoStar {
+  width: 5%;
+  position: absolute;
+  top: -5%;
+  left: 71.3%;
+  transform: rotate(14deg);
+}
+
+.LogoLink {
+  transition: transform 0.2s ease;
+}
+
+.LogoLink:hover {
+  transform: scale(1.06);
+  -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.3));
+  filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.3));
+}

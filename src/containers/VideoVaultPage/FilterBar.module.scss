@@ -1,0 +1,13 @@
+@import "../../variables.scss";
+
+.FilterBar {
+  width: 100%;
+  position: relative;
+  background-color: $primary-green;
+  margin: 6rem 0 4rem;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}

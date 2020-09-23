@@ -1,0 +1,128 @@
+@import "../../../variables.scss";
+
+.MainSection {
+  position: relative;
+  // top: 0;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  z-index: 5;
+  margin-top: -2rem;
+}
+
+.RocketSpacer {
+  min-height: 10rem;
+  height: 30vw;
+  max-height: 12rem;
+}
+
+.Rocket {
+  position: relative;
+  min-width: 3.3rem;
+  width: 6%;
+  max-width: 7rem;
+  transform-origin: bottom;
+  z-index: 7;
+  box-sizing: border-box;
+
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.RocketTrail {
+  position: relative;
+  display: block;
+  transform-origin: bottom;
+  transform: scaleX(2);
+  z-index: 2;
+}
+
+.MainBG {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: $rocket-trail-white;
+  margin-top: -5px;
+  box-sizing: content-box;
+}
+
+.ButtonContainer {
+  position: absolute;
+  display: flex;
+  top: 0;
+  z-index: 6;
+  width: 90%;
+  height: 45vw; //20rem;
+  max-width: 180rem;
+  max-height: 85rem;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -9vw;
+}
+
+.Button {
+  position: relative;
+  width: 30%;
+  max-width: 50rem;
+  max-height: 60rem;
+}
+
+.GamesAppsBtn {
+  margin-left: -1.3%;
+}
+
+.BtnMeteor1,
+.BtnMeteor2 {
+  position: relative;
+  transform-origin: left;
+  pointer-events: none;
+  z-index: 4000;
+}
+
+.BtnMeteor1 {
+  transform: rotate(-30deg);
+  left: 62%;
+  top: -1rem;
+}
+
+.BtnMeteor2 {
+  transform: rotate(-120deg);
+  left: 94%;
+  bottom: 9vw;
+}
+
+.BottomSection {
+  position: relative;
+  background-color: $rocket-trail-white;
+  padding: 4rem 0;
+}
+
+.MainSectionBtn {
+  text-decoration: none;
+}
+
+.UM {
+  color: $primary-red;
+  font-weight: 600;
+}
+
+@media screen and (min-width: 2400px) {
+  .ButtonContainer {
+    margin-top: -12vw;
+  }
+}
+
+@media screen and (max-width: 325px) {
+  .ButtonContainer {
+    min-height: 12rem;
+  }
+}
+
+.GamesScrollRef {
+  position: absolute;
+  margin-top: 55vw;
+}
