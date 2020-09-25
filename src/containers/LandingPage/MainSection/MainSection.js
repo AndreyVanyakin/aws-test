@@ -23,9 +23,9 @@ import VideoBlob3 from "../../../assets/images/svg/videoBlob3.svg";
 // import VisualAccelerometerVideo from "../../../assets/videos/VisualAccelerometerPreview.mp4";
 // import CrackTheCircuitVideo from "../../../assets/videos/CrackTheCircuitPreview.mp4";
 
-import MotionMapperImage from "../../../assets/images/MotionMapperPreview.jpg";
-import VisualAccelerometerImage from "../../../assets/images/VisualAccelerometerPreview.jpg";
-import CrackTheCircuitImage from "../../../assets/images/CrackTheCircuitPreview.jpg";
+import MotionMapperImage from "../../../assets/images/MotionMapperPreviewHalf.jpg";
+import VisualAccelerometerImage from "../../../assets/images/VisualAccelerometerPreviewHalf.jpg";
+import CrackTheCircuitImage from "../../../assets/images/CrackTheCircuitPreviewHalf.jpg";
 
 import RocketSrc from "../../../assets/images/svg/rocket.svg";
 import RocketLitSrc from "../../../assets/images/svg/rocket-lit.svg";
