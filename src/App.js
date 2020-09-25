@@ -12,7 +12,7 @@ import SiteNav from "./containers/SiteNav/SiteNav";
 import DonationModal from "../src/containers/DonationModal/DonationModal";
 import Footer from "../src/containers/Footer/Footer";
 
-import LandingPage from "./containers/LandingPage/LandingPage";
+// import LandingPage from "./containers/LandingPage/LandingPage";
 // import VideoVaultPage from "./containers/VideoVaultPage/VideoVaultPage";
 // import AboutPage from "./containers/AboutPage/AboutPage";
 // import EinsteinDollarPage from "./containers/EinsteinDollarPage/EinsteinDollarPage";
@@ -36,6 +36,8 @@ const ELEMENTS_OPTIONS = {
 const trackingId = "UA-176787646-1"; // Replace with your Google Analytics tracking ID
 ReactGA.initialize(trackingId);
 ReactGA.pageview(window.location.pathname + window.location.search);
+
+const LandingPage = lazy(() => import("./containers/LandingPage/LandingPage"));
 
 const VideoVaultPage = lazy(() =>
   import("./containers/VideoVaultPage/VideoVaultPage")
