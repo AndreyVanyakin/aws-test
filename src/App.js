@@ -14,7 +14,7 @@ import Footer from "../src/containers/Footer/Footer";
 
 import LandingPage from "./containers/LandingPage/LandingPage";
 // import VideoVaultPage from "./containers/VideoVaultPage/VideoVaultPage";
-// import AboutPage from "./containers/AboutPage/AboutPage";
+import AboutPage from "./containers/AboutPage/AboutPage";
 // import EinsteinDollarPage from "./containers/EinsteinDollarPage/EinsteinDollarPage";
 // import EnergyBarChartPage from "./containers/EnergyBarChartPage/EnergyBarChartPage";
 
@@ -40,7 +40,7 @@ ReactGA.pageview(window.location.pathname + window.location.search);
 const VideoVaultPage = lazy(() =>
   import("./containers/VideoVaultPage/VideoVaultPage")
 );
-const AboutPage = lazy(() => import("./containers/AboutPage/AboutPage"));
+// const AboutPage = lazy(() => import("./containers/AboutPage/AboutPage"));
 
 function App() {
   const [donationModalShowing, setDonationModalShowing] = useState(false);
